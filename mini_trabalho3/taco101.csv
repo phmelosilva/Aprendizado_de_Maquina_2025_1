@@ -1,0 +1,1871 @@
+Person ID,Food,Category,Energy_kcal,Quantity_g,Energy_Intake
+1,"Café, pó, torrado",Miscelâneas,418.6186666666666,89.0,372.4
+1,"Castanha-de-caju, torrada, salgada",Nozes e sementes,570.167626501619,92.5,527.1
+1,Vatapá,Número do,254.89328572415508,14.4,36.6
+1,"Coentro, folhas desidratadas",Número do,309.0707468044758,189.2,584.8
+1,"Banana, da terra, crua",Frutas e derivados,128.02445217391306,225.0,288.0
+2,"Pescada, filé, frito",Número do,154.270025,466.8,720.1
+2,"Carne, bovina, picanha, sem gordura, grelhada",Número do,238.4681333333333,50.1,119.6
+2,"Queijo, petit suisse, morango",Número do,121.105954,343.8,416.4
+2,"Mostarda, folha, crua",Número do,18.107389052172486,1216.9,220.3
+2,"Carne, bovina, coxão duro, sem gordura, cru",Número do,147.96633333333335,199.8,295.6
+3,"Bife à cavalo, com contra filé",Alimentos preparados,291.2295092449586,59.1,172.0
+3,"Chocolate, ao leite, com castanha do Pará",Número do,558.8763333333334,94.6,528.9
+3,"Bebida láctea, pêssego",Leite e derivados,55.164833333333306,473.6,261.3
+3,"Abóbora, cabotian, cozida","Verduras, hortaliças e derivados",48.04374250000001,277.7,133.4
+3,Arroz carreteiro,Alimentos preparados,153.772,542.6,834.4
+4,"Porco, rabo, salgado, cru",Número do,377.4152575,44.0,165.9
+4,"Soja, queijo (tofu)",Número do,64.48509407389021,481.0,310.2
+4,"Sardinha, inteira, crua",Número do,113.90036666666666,78.2,89.0
+4,"Lingüiça, porco, grelhada",Número do,296.4896091666666,115.9,343.5
+4,"Alho-poró, cru","Verduras, hortaliças e derivados",31.5079193532467,3320.8,1046.3
+5,"Batata, inglesa, sauté",Número do,67.88793615063032,289.8,196.7
+5,"Carne, bovina, língua, crua",Número do,215.24976666666663,80.4,173.0
+5,Barreado,Alimentos preparados,164.9752340474129,323.1,533.1
+5,Estrogonofe de frango,Alimentos preparados,156.80610301323728,143.9,225.6
+5,"Margarina, com óleo hidrogenado, com sal (65% de lipídeos)",Gorduras e óleos,596.1195169563294,79.6,474.6
+6,"Abadejo, filé, congelado, cru",Pescados e frutos do mar,59.11303324858347,999.1,590.6
+6,"Carne, bovina, língua, cozida",Número do,314.9016,147.4,464.1
+6,"Ovo, de galinha, inteiro, frito",Ovos e derivados,240.1872240091165,164.5,395.2
+6,"Batata, inglesa, crua","Verduras, hortaliças e derivados",64.3702260869565,236.2,152.1
+6,"Farinha, de trigo",Número do,360.4729785507247,0.3,1.1
+7,"Uva, Rubi, crua",Número do,49.06128999999997,653.8,320.7
+7,"Margarina, com óleo interesterificado, com sal (65%de lipídeos)",Gorduras e óleos,594.4516933333332,42.4,252.2
+7,"Corvina grande, cozida",Número do,100.07812455296516,263.2,263.4
+7,"Presunto, com capa de gordura",Número do,127.84921266563737,603.4,771.5
+7,"Salmão, sem pele, fresco, cru",Número do,169.78157991055645,240.5,408.3
+8,"Frango, peito, com pele, cru",Número do,149.46526666666665,66.5,99.4
+8,"Porco, pernil, cru",Número do,186.05575,303.5,564.7
+8,"Ameixa, crua",Frutas e derivados,52.54248260869565,227.3,119.4
+8,"Salsa, crua",Número do,33.424111594202884,56.6,18.9
+8,"Nêspera, crua",Número do,42.539198868195214,2881.1,1225.6
+9,"Almeirão, refogado","Verduras, hortaliças e derivados",65.08191082886853,232.0,151.0
+9,"Batata, inglesa, cozida","Verduras, hortaliças e derivados",51.588476636270656,1313.1,677.4
+9,"Alface, roxa, crua","Verduras, hortaliças e derivados",12.716997363467993,484.2,61.6
+9,"Umbu, cru",Número do,37.016689999999976,191.7,71.0
+9,"Óleo, de pequi",Gorduras e óleos,884.0,92.8,820.1
+10,"Sardinha, inteira, crua",Número do,113.90036666666666,176.8,201.4
+10,"Farinha, de arroz, enriquecida",Cereais e derivados,363.0564801812235,2.9,10.7
+10,"Arroz, tipo 2, cozido",Cereais e derivados,130.11964833333332,560.8,729.7
+10,"Milho, verde, cru",Número do,138.166565,16.1,22.3
+10,"Graviola, polpa, congelada",Número do,38.27386999999997,2664.8,1019.9
+11,"Melancia, crua",Número do,32.60662608695646,200.5,65.4
+11,"Carne, bovina, coxão duro, sem gordura, cozido",Número do,216.616066666667,167.0,361.8
+11,"Cereais, milho, flocos, com sal",Cereais e derivados,369.59975,117.5,434.1
+11,"Carne, bovina, fraldinha, com gordura, crua",Número do,220.72376666666665,97.8,215.9
+11,"Arroz, tipo 2, cru",Cereais e derivados,358.1167614565217,134.0,479.7
+12,"Porco, orelha, salgada, crua",Número do,258.49175833333334,257.8,666.4
+12,"Pupunha, cozida",Nozes e sementes,218.53388087660076,25.4,55.5
+12,"Farinha, de centeio, integral",Número do,335.7776627993265,147.6,495.7
+12,"Tomate, com semente, cru",Número do,15.335156521739158,1890.0,289.8
+12,"Manga, Palmer, crua",Número do,72.48673809168733,378.8,274.5
+13,"Maracujá, cru",Número do,68.43950869565214,509.9,349.0
+13,"Cuscuz, de milho, cozido com sal",Alimentos preparados,113.45948166666666,251.5,285.3
+13,"Limão, galego, suco",Número do,22.22504347826089,803.1,178.5
+13,"Carne, bovina, patinho, sem gordura, cru",Número do,133.46889999999996,451.4,602.5
+13,"Baião de dois, arroz e feijão-de-corda",Alimentos preparados,135.68133333333333,208.3,282.7
+14,"Beterraba, cozida",Número do,32.15432433140276,2186.1,702.9
+14,Virado à paulista,Número do,306.94678645131984,102.8,315.6
+14,"Lambari, congelado, cru",Número do,130.84031100948653,4.8,6.3
+14,"Seleta de legumes, enlatada",Número do,56.53377246376815,325.9,184.3
+14,"Manjuba, frita",Número do,349.32523145536584,16.6,58.0
+15,"Frango, coxa, sem pele, crua",Número do,119.9474666666666,325.7,390.6
+15,"Macaúba, crua",Número do,404.2818766666667,106.9,432.1
+15,"Leite, de cabra",Leite e derivados,66.41574188654329,246.7,163.9
+15,"Umbu, cru",Número do,37.016689999999976,592.8,219.4
+15,"Carne, bovina, charque, cru",Carnes e derivados,248.861018107454,39.8,99.0
+16,"Queijo, ricota",Número do,139.73177999999996,251.1,350.9
+16,"Farinha, de trigo",Número do,360.4729785507247,104.1,375.2
+16,"Alface, roxa, crua","Verduras, hortaliças e derivados",12.716997363467993,1279.7,162.7
+16,"Pinhão, cozido",Nozes e sementes,174.36990200000002,181.7,316.9
+16,"Jiló, cru",Número do,27.36514347826087,1214.2,332.3
+17,"Frango, inteiro, sem pele, cozido",Número do,170.38997583333332,37.1,63.3
+17,"Carne, bovina, filé mingnon, sem gordura, cru",Número do,142.86426666666665,540.0,771.4
+17,"Vagem, crua",Número do,24.898357971014487,1827.5,455.0
+17,"Bife à cavalo, com contra filé",Alimentos preparados,291.2295092449586,28.2,82.3
+17,"Umbu, cru",Número do,37.016689999999976,337.7,125.0
+18,"Milho, verde, enlatado, drenado",Número do,97.56489420289851,342.5,334.2
+18,"Macarrão, trigo, cru",Número do,371.1226130434783,10.3,38.2
+18,"Banana, doce em barra",Frutas e derivados,280.10519255063934,106.1,297.3
+18,Rapadura,Número do,351.9581221015453,129.0,454.2
+18,"Curau, milho verde, mistura para",Cereais e derivados,402.28657743531465,146.4,589.1
+19,"Carne, bovina, capa de contra-filé, com gordura, grelhada",Carnes e derivados,311.7026666666667,0.5,1.5
+19,"Pinha, crua",Número do,88.4735276668668,477.4,422.4
+19,"Caranguejo, cozido",Número do,82.72150150783858,596.4,493.3
+19,"Pão, glúten, forma",Número do,252.99403,236.5,598.3
+19,"Salsa, crua",Número do,33.424111594202884,7.3,2.4
+20,"Doce, de abóbora, cremoso",Número do,198.9360630496343,105.7,210.2
+20,"Palmito, juçara, em conserva",Número do,23.199716434081346,67.2,15.6
+20,"Fermento, biológico, levedura, tablete",Miscelâneas,89.79486703058885,52.9,47.5
+20,"Arroz, tipo 1, cru",Cereais e derivados,357.789273115942,113.5,406.0
+20,"Tangerina, Poncã, suco",Número do,36.10879999999999,2530.4,913.7
+21,"Carne, bovina, contra-filé, com gordura, cru",Número do,205.8567,58.2,119.8
+21,"Castanha-do-Brasil, crua",Nozes e sementes,642.9630716810693,44.2,284.4
+21,"Pequi, cru",Número do,204.96677,660.0,1352.9
+21,"Tapioca, com manteiga",Número do,347.8265562578241,55.5,193.2
+21,"Pintado, assado",Número do,191.5591411275864,113.7,217.8
+22,"Cará, cozido",Número do,77.58491333333336,62.5,48.5
+22,"Margarina, com óleo interesterificado, com sal (65%de lipídeos)",Gorduras e óleos,594.4516933333332,164.1,975.5
+22,"Carne, bovina, contra-filé de costela, grelhado",Número do,274.91426666666666,230.9,634.8
+22,"Soja, extrato solúvel, pó",Número do,458.8957294378677,27.1,124.5
+22,"Cupuaçu, cru",Número do,49.42255877437193,94.4,46.7
+23,"Pimentão, verde, cru",Número do,21.28588115942029,757.3,161.2
+23,"Paçoca, amendoim",Número do,486.9270864645243,29.6,144.0
+23,"Pitanga, crua",Número do,41.41552999999997,3336.3,1381.8
+23,"Ovo, de galinha, inteiro, cru",Ovos e derivados,143.11173333333335,109.5,156.7
+23,Camarão à baiana,Alimentos preparados,100.78304300403596,44.9,45.3
+24,"Abacaxi, polpa, congelada",Frutas e derivados,30.591799194335923,212.3,64.9
+24,"Charuto, de repolho",Alimentos preparados,78.23472922221822,300.7,235.3
+24,"Pescada, filé, frito",Número do,154.270025,32.8,50.7
+24,"Carne, bovina, costela, assada",Número do,373.03886666666665,204.1,761.3
+24,"Feijão, preto, cru",Leguminosas e derivados,323.5657115942029,147.7,477.8
+25,"Carne, bovina, músculo, sem gordura, cru",Número do,141.581,80.4,113.8
+25,"Abadejo, filé, congelado,cozido",Pescados e frutos do mar,91.10354839555424,894.8,815.2
+25,"Sardinha, assada",Número do,164.3507883333333,215.0,353.3
+25,"Abobrinha, italiana, refogada","Verduras, hortaliças e derivados",24.42960218765336,972.5,237.6
+25,"Palmito, pupunha, em conserva",Número do,29.43196333333332,836.1,246.1
+26,"Porco, pernil, assado",Número do,262.2596066666666,75.9,199.0
+26,"Pão, aveia, forma",Número do,343.0853666666667,10.7,36.8
+26,"Arroz, tipo 2, cozido",Cereais e derivados,130.11964833333332,736.0,957.7
+26,"Pão, de queijo, cru",Número do,294.538,33.0,97.1
+26,"Macarrão, trigo, cru, com ovos",Número do,370.5671133333334,163.7,606.4
+27,Salame,Número do,397.8425065349341,30.8,122.6
+27,"Carne, bovina, fraldinha, com gordura, crua",Número do,220.72376666666665,83.0,183.1
+27,"Pescada, filé, molho escabeche",Número do,141.9583228750229,520.6,739.0
+27,"Mamão, Papaia, cru",Número do,40.156768942296566,200.2,80.4
+27,"Banana, maçã, crua",Frutas e derivados,86.80533043478259,598.9,519.9
+28,"Tangerina, Poncã, crua",Número do,37.83059999999995,51.3,19.4
+28,"Azeite, de dendê",Gorduras e óleos,884.0,31.2,275.7
+28,"Laranja, pêra, crua",Número do,36.77376521739132,120.0,44.1
+28,"Carne, bovina, picanha, sem gordura, crua",Número do,133.52236666666667,810.9,1082.7
+28,"Abiu, cru",Frutas e derivados,62.42409840854006,845.8,528.0
+29,"Frango, com açafrão",Alimentos preparados,112.78376884122686,37.4,42.2
+29,"Empada de frango, pré-cozida, assada",Número do,358.1916666666667,64.9,232.4
+29,"Feijão, fradinho, cru",Leguminosas e derivados,339.16476666666665,358.8,1217.0
+29,"Melão, cru",Número do,29.369391304347808,226.5,66.5
+29,"Carne, bovina, acém, moído, cozido",Carnes e derivados,212.4204,92.7,196.8
+30,"Leite, de vaca, integral, pó",Leite e derivados,496.6502999999999,135.7,674.1
+30,"Baião de dois, arroz e feijão-de-corda",Alimentos preparados,135.68133333333333,210.1,285.1
+30,Quindim,Número do,411.3487215708494,96.9,398.5
+30,Maniçoba,Alimentos preparados,134.22289340098695,144.8,194.3
+30,"Macarrão, instantâneo",Número do,435.8647805333334,60.8,265.1
+31,"Pastel, de carne, cru",Número do,288.7020715159896,37.7,108.8
+31,"Almeirão, cru","Verduras, hortaliças e derivados",18.03442898550724,174.6,31.5
+31,"Fécula, de mandioca",Número do,330.85055833333337,75.2,248.8
+31,"Queijo, petit suisse, morango",Número do,121.105954,873.8,1058.2
+31,"Goiaba, vermelha, com casca, crua",Número do,54.16993043478262,198.8,107.7
+32,"Margarina, com óleo interesterificado, sem sal (65% de lipídeos)",Gorduras e óleos,593.1374902381897,26.8,158.7
+32,"Lingüiça, frango, frita",Número do,245.46100666666663,46.1,113.0
+32,"Carne, bovina, contra-filé, com gordura, grelhado",Número do,278.05356666666665,402.7,1119.9
+32,"Pescada, filé, com farinha de trigo, frito",Número do,283.4252144319614,97.4,276.1
+32,"Amendoim, grão, cru",Leguminosas e derivados,544.0526557994334,69.4,377.3
+33,Tacacá,Número do,46.88917715120316,1603.7,752.0
+33,"Carne, bovina, cupim, cru",Número do,221.3975,166.7,369.2
+33,"Pão, trigo, francês",Número do,299.8101504347826,22.7,68.0
+33,"Brócolis, cozido",Número do,24.63616311136879,2513.4,619.2
+33,"Farinha, de trigo",Número do,360.4729785507247,17.7,63.7
+34,"Ovo, de galinha, inteiro, frito",Ovos e derivados,240.1872240091165,209.8,504.0
+34,"Lingüiça, porco, crua",Número do,227.2034508333333,17.3,39.3
+34,"Mexerica, Rio, crua",Número do,36.871350000000064,111.9,41.2
+34,"Catalonha, crua",Número do,23.888412257373297,3458.2,826.1
+34,"Capuccino, pó",Miscelâneas,417.4066666666667,6.6,27.4
+35,"Manjuba, com farinha de trigo, frita",Número do,343.55045872306823,49.1,168.7
+35,"Tamarindo, cru",Número do,275.69564269441366,106.1,292.5
+35,"Frango, inteiro, sem pele, cru",Número do,129.09640000000002,332.3,429.0
+35,"Farinha, de centeio, integral",Número do,335.7776627993265,112.3,377.1
+35,"Lentilha, crua",Número do,339.1412402035533,227.9,772.8
+36,"Frango, inteiro, sem pele, cozido",Número do,170.38997583333332,5.3,9.0
+36,"Salpicão, de frango",Alimentos preparados,147.8645961340268,749.9,1108.8
+36,"Carne, bovina, capa de contra-filé, com gordura, grelhada",Carnes e derivados,311.7026666666667,24.3,75.9
+36,"Pinha, crua",Número do,88.4735276668668,218.5,193.3
+36,"Laranja, lima, crua",Número do,45.70103878062962,41.7,19.1
+37,"Caqui, chocolate, cru",Número do,71.35001811164616,646.9,461.6
+37,"Azeite, de oliva, extra virgem",Gorduras e óleos,884.0,61.9,546.8
+37,"Creme de milho, pó",Cereais e derivados,333.03419267054403,55.0,183.0
+37,"Biscoito, doce, maisena",Cereais e derivados,442.8193901449275,61.0,270.0
+37,"Geléia, mocotó, natural",Número do,106.08666666666662,217.4,230.6
+38,"Aveia, flocos, crua",Cereais e derivados,393.82268944927546,196.2,772.8
+38,"Lasanha, massa fresca, cozida",Número do,163.7636666666667,90.1,147.5
+38,"Quibe, assado",Número do,136.22887614158785,191.0,260.2
+38,"Leite, de vaca, achocolatado",Leite e derivados,82.82099627199361,199.0,164.8
+38,"Arroz, tipo 2, cru",Cereais e derivados,358.1167614565217,38.5,137.7
+39,"Óleo, de babaçu",Gorduras e óleos,884.0,8.0,71.1
+39,"Pão, trigo, forma, integral",Número do,253.1936183333333,93.9,237.8
+39,"Curau, milho verde",Cereais e derivados,78.43381831365585,428.5,336.1
+39,"Alho-poró, cru","Verduras, hortaliças e derivados",31.5079193532467,931.8,293.6
+39,"Goiaba, vermelha, com casca, crua",Número do,54.16993043478262,1237.5,670.3
+40,"Feijão, fradinho, cozido",Leguminosas e derivados,78.00889666666667,934.2,728.8
+40,"Queijo, ricota",Número do,139.73177999999996,82.9,115.9
+40,"Catalonha, crua",Número do,23.888412257373297,273.3,65.3
+40,"Café, infusão 10%",Bebidas (alcoólicas e não alcoólicas),9.070868599613515,6352.4,576.2
+40,"Pescada, branca, crua",Número do,110.8763,385.8,427.8
+41,"Ameixa, calda, enlatada ",Frutas e derivados,182.84662000000003,212.5,388.6
+41,"Ameixa, crua",Frutas e derivados,52.54248260869565,237.6,124.8
+41,"Frango, sobrecoxa, com pele, assada",Número do,259.60476916666664,101.5,263.4
+41,"Manjericão, cru",Número do,21.14767681159422,1835.1,388.1
+41,"Carne, bovina, paleta, sem gordura, cozida",Número do,193.6524,443.1,858.1
+42,"Cupuaçu, polpa, congelada",Número do,48.79688999999999,2170.6,1059.2
+42,"Azeitona, verde, conserva",Número do,136.93643000000003,117.5,160.9
+42,"Cará, cozido",Número do,77.58491333333336,169.8,131.7
+42,"Ameixa, crua",Frutas e derivados,52.54248260869565,394.5,207.3
+42,"Kiwi, cru",Número do,51.13633043478264,684.3,349.9
+43,Quibebe,Alimentos preparados,86.349230299592,1088.4,939.8
+43,"Chuchu, cozido",Número do,18.53979053137702,787.0,145.9
+43,"Macarrão, instantâneo",Número do,435.8647805333334,32.7,142.7
+43,"Feijão, rosinha, cru",Leguminosas e derivados,336.9619111275673,54.6,183.9
+43,"Pescadinha, crua",Número do,76.40890833333334,575.5,439.8
+44,"Quibe, assado",Número do,136.22887614158785,198.5,270.4
+44,"Carne, bovina, acém, sem gordura, cozido",Carnes e derivados,214.61056666666664,29.3,62.8
+44,"Leite, de vaca, achocolatado",Leite e derivados,82.82099627199361,219.3,181.6
+44,"Lentilha, cozida",Leguminosas e derivados,92.63876625229916,213.3,197.6
+44,Sarapatel,Alimentos preparados,122.98185821243132,896.5,1102.6
+45,"Amendoim, grão, cru",Leguminosas e derivados,544.0526557994334,28.5,155.1
+45,"Pastel, de queijo, frito",Número do,422.11208003931927,25.1,106.1
+45,"Banana, prata, crua",Frutas e derivados,98.24970217391306,342.3,336.3
+45,"Carne, bovina, seca, cozida",Número do,312.799033691446,179.1,560.1
+45,"Pão, de queijo, cru",Número do,294.538,143.0,421.3
+46,"Pescada, filé, cru",Número do,107.20556666666666,400.9,429.8
+46,"Mingau tradicional, pó",Número do,373.4214666666667,36.1,135.0
+46,"Salmão, sem pele, fresco, cru",Número do,169.78157991055645,42.0,71.4
+46,"Azeitona, preta, conserva",Outros alimentos industrializados,194.1538470209837,518.1,1005.9
+46,"Taioba, crua",Número do,34.208918333333315,259.9,88.9
+47,"Maçã, Fuji, com casca, crua",Número do,55.51520000000005,1424.5,790.8
+47,"Milho, verde, cru",Número do,138.166565,15.1,20.9
+47,Tabule,Alimentos preparados,57.45347668848058,113.5,65.2
+47,"Banana, da terra, crua",Frutas e derivados,128.02445217391306,386.5,494.8
+47,"Porco, bisteca, frita",Número do,311.1690453348557,132.2,411.3
+48,Sarapatel,Alimentos preparados,122.98185821243132,307.6,378.3
+48,"Pintado, grelhado",Número do,152.19008833333334,348.2,529.9
+48,Tabule,Alimentos preparados,57.45347668848058,1251.0,718.7
+48,"Castanha-do-Brasil, crua",Nozes e sementes,642.9630716810693,63.5,408.2
+48,"Abiu, cru",Frutas e derivados,62.42409840854006,81.5,50.9
+49,"Cerveja, pilsen 2",Bebidas (alcoólicas e não alcoólicas),40.72018855062866,948.8,386.3
+49,"Frango, com açafrão",Alimentos preparados,112.78376884122686,576.0,649.7
+49,"Couve, manteiga, refogada ",Número do,90.34481542611124,386.5,349.2
+49,Apresuntado,Carnes e derivados,128.8572558120092,167.7,216.1
+49,"Pintado, cru",Número do,91.08323333333333,376.3,342.7
+50,"Carne, bovina, flanco, sem gordura, cru",Número do,141.46009999999998,255.3,361.2
+50,"Frango, fígado, cru",Número do,106.48456666666668,420.3,447.5
+50,"Carne, bovina, picanha, sem gordura, crua",Número do,133.52236666666667,440.6,588.3
+50,"Queijo, prato",Número do,359.88046240505474,11.3,40.8
+50,"Uva, Itália, crua",Número do,52.87310000000007,159.1,84.1
+51,"Limão, cravo, suco",Número do,14.103733399311682,930.2,131.2
+51,"Pastel, massa, frita",Número do,569.6724593333333,137.9,785.8
+51,"Camarão, Rio Grande, grande, cru",Número do,47.18343670543035,941.6,444.3
+51,"Azeite, de oliva, extra virgem",Gorduras e óleos,884.0,38.0,336.2
+51,"Leite, de cabra",Leite e derivados,66.41574188654329,139.3,92.5
+52,"Brócolis, cozido",Número do,24.63616311136879,1365.3,336.4
+52,"Carne, bovina, bucho, cru",Carnes e derivados,137.30316666666667,228.5,313.7
+52,"Caldo de galinha, tablete",Carnes e derivados,251.44566666666665,55.2,138.7
+52,"Refrigerante, tipo laranja",Bebidas (alcoólicas e não alcoólicas),45.62730000000003,1684.4,768.5
+52,"Carne, bovina, patinho, sem gordura, grelhado",Número do,219.25926666666663,41.4,90.7
+53,"Doce, de leite, cremoso",Número do,306.31013023105874,19.2,58.7
+53,"Maionese, tradicional com ovos",Número do,302.1526776878237,130.7,394.9
+53,"Espinafre, Nova Zelândia, cru",Número do,16.095694202898525,1877.5,302.2
+53,"Uva, Itália, crua",Número do,52.87310000000007,1294.2,684.3
+53,"Feijão, preto, cozido",Leguminosas e derivados,77.02726666666668,97.2,74.9
+54,"Maxixe, cru",Número do,13.747236086956516,349.1,48.0
+54,"Corvina de água doce, crua",Número do,101.00903333333332,350.6,354.1
+54,"Jambo, cru",Número do,26.91229999999998,2840.5,764.4
+54,"Carne, bovina, contra-filé, sem gordura, cru",Número do,156.6158333333333,126.3,197.8
+54,Mortadela,Número do,268.8199890167316,235.4,632.7
+55,"Palmito, juçara, em conserva",Número do,23.199716434081346,562.4,130.5
+55,"Refrigerante, tipo água tônica",Bebidas (alcoólicas e não alcoólicas),30.7794,1203.4,370.4
+55,"Maçã, Fuji, com casca, crua",Número do,55.51520000000005,456.4,253.4
+55,"Carne, bovina, acém, sem gordura, cozido",Carnes e derivados,214.61056666666664,446.8,958.9
+55,"Lingüiça, porco, grelhada",Número do,296.4896091666666,48.2,142.9
+56,"Bacalhau, salgado, refogado",Número do,139.66070105353995,393.3,549.2
+56,"Caju, suco concentrado, envasado",Número do,45.10862666666668,243.7,109.9
+56,"Cajá-Manga, cru",Frutas e derivados,45.58096877372266,1203.0,548.4
+56,"Biscoito, doce, wafer, recheado de morango",Cereais e derivados,513.4461826086956,72.6,372.7
+56,"Frango, peito, sem pele, grelhado",Número do,159.18500719261172,160.7,255.8
+57,"Caju, cru",Frutas e derivados,43.06506852173912,1367.1,588.7
+57,"Queijo, minas, meia cura",Leite e derivados,320.72181773325985,154.6,496.0
+57,"Soja, farinha",Número do,403.955845810399,21.5,86.7
+57,"Margarina, com óleo interesterificado, sem sal (65% de lipídeos)",Gorduras e óleos,593.1374902381897,30.5,180.7
+57,"Bebida isotônica, sabores variados",Bebidas (alcoólicas e não alcoólicas),25.613333333333344,1385.5,354.9
+58,"Lambari, congelado, cru",Número do,130.84031100948653,90.5,118.4
+58,"Arroz, tipo 1, cozido",Cereais e derivados,128.25848566666664,686.9,881.0
+58,Vaca atolada,Número do,144.89697968479,57.8,83.7
+58,"Tucumã, cru",Número do,262.01519507239266,122.2,320.2
+58,"Porco, rabo, salgado, cru",Número do,377.4152575,48.9,184.7
+59,"Abóbora, cabotian, cozida","Verduras, hortaliças e derivados",48.04374250000001,752.5,361.5
+59,"Abóbora, menina brasileira, crua","Verduras, hortaliças e derivados",13.605673913043486,3378.8,459.7
+59,"Carne, bovina, bucho, cru",Carnes e derivados,137.30316666666667,372.1,510.9
+59,"Lambari, congelado, cru",Número do,130.84031100948653,112.1,146.6
+59,"Iogurte, natural, desnatado",Leite e derivados,41.49271128155834,571.8,237.2
+60,"Cupuaçu, polpa, congelada",Número do,48.79688999999999,906.0,442.1
+60,"Ovo, de galinha, inteiro, cozido/10minutos",Ovos e derivados,145.70017,370.3,539.5
+60,"Toucinho, frito",Número do,696.5640066666666,38.5,268.0
+60,"Pimentão, verde, cru",Número do,21.28588115942029,3049.1,649.0
+60,"Macarrão, molho bolognesa",Alimentos preparados,119.53177144556008,143.4,171.4
+61,"Laranja, lima, suco",Número do,39.3360939441324,426.8,167.9
+61,"Carne, bovina, contra-filé, com gordura, cru",Número do,205.8567,40.8,83.9
+61,"Repolho, roxo, refogado",Número do,41.77352528971434,620.1,259.0
+61,"Carne, bovina, patinho, sem gordura, cru",Número do,133.46889999999996,12.7,16.9
+61,"Chicória, crua",Número do,13.837120289855095,7417.0,1026.3
+62,"Graviola, polpa, congelada",Número do,38.27386999999997,227.1,86.9
+62,"Carne, bovina, picanha, sem gordura, crua",Número do,133.52236666666667,373.7,498.9
+62,"Jambo, cru",Número do,26.91229999999998,1883.7,506.9
+62,"Pastel, massa, crua",Número do,310.2025143333333,27.0,83.8
+62,"Noz, crua",Nozes e sementes,620.0600197905668,70.4,436.4
+63,"Goiaba, branca, com casca, crua",Número do,51.73774782608695,63.2,32.7
+63,"Banana, prata, crua",Frutas e derivados,98.24970217391306,44.1,43.3
+63,"Chá, erva-doce, infusão 5%",Bebidas (alcoólicas e não alcoólicas),1.3970599738756386,35749.8,499.4
+63,"Jamelão, cru",Número do,41.00970891670385,1919.9,787.3
+63,"Salada, de legumes, cozida no vapor",Alimentos preparados,35.40810429847241,186.8,66.2
+64,"Carne, bovina, picanha, com gordura, grelhada",Número do,288.7670916666666,8.6,24.7
+64,"Feijão, rajado, cozido",Leguminosas e derivados,84.7018527334929,565.9,479.3
+64,"Sardinha, conserva em óleo",Número do,284.9810048712492,240.6,685.8
+64,"Porco, orelha, salgada, crua",Número do,258.49175833333334,16.7,43.1
+64,Tacacá,Número do,46.88917715120316,379.9,178.1
+65,"Banana, prata, crua",Frutas e derivados,98.24970217391306,228.8,224.8
+65,"Banana, maçã, crua",Frutas e derivados,86.80533043478259,426.5,370.2
+65,"Cereais, milho, flocos, sem sal",Cereais e derivados,363.3383166666666,36.2,131.5
+65,"Almeirão, cru","Verduras, hortaliças e derivados",18.03442898550724,3620.6,653.0
+65,"Limão, galego, suco",Número do,22.22504347826089,1950.4,433.5
+66,"Ovo, de galinha, clara, cozida/10minutos",Ovos e derivados,59.43569666666667,182.0,108.2
+66,"Maria mole, coco queimado",Número do,306.6318969970185,135.2,414.7
+66,"Cajá, polpa, congelada",Frutas e derivados,26.332269311050556,120.3,31.7
+66,"Tomate, molho industrializado",Número do,38.446549460490566,1097.7,422.0
+66,"Abóbora, moranga, crua","Verduras, hortaliças e derivados",12.364436231884042,7638.0,944.4
+67,"Catalonha, crua",Número do,23.888412257373297,169.9,40.6
+67,"Manjuba, com farinha de trigo, frita",Número do,343.55045872306823,141.4,485.7
+67,"Azeite, de dendê",Gorduras e óleos,884.0,87.1,770.1
+67,"Guandu, cru",Leguminosas e derivados,344.1336512849927,45.7,157.3
+67,"Ovo, de galinha, inteiro, cozido/10minutos",Ovos e derivados,145.70017,193.7,282.3
+68,"Camarão, Sete Barbas, sem cabeça, com casca, frito",Número do,231.24615385087333,41.7,96.5
+68,"Bife à cavalo, com contra filé",Alimentos preparados,291.2295092449586,76.3,222.1
+68,"Feijão, jalo, cru",Leguminosas e derivados,327.90526666666665,36.1,118.2
+68,"Carne, bovina, peito, sem gordura, cru",Número do,259.2756333333333,157.0,407.2
+68,"Carne, bovina, paleta, com gordura, crua",Número do,158.7099,634.5,1007.0
+69,"Carne, bovina, capa de contra-filé, com gordura, grelhada",Carnes e derivados,311.7026666666667,458.1,1427.9
+69,"Batata, doce, cozida","Verduras, hortaliças e derivados",76.75961050343517,86.6,66.5
+69,"Salmão, sem pele, fresco, cru",Número do,169.78157991055645,19.4,33.0
+69,"Bebida isotônica, sabores variados",Bebidas (alcoólicas e não alcoólicas),25.613333333333344,599.6,153.6
+69,"Biscoito, salgado, cream cracker",Cereais e derivados,431.73228115942027,32.7,141.1
+70,"Queijo, prato",Número do,359.88046240505474,241.3,868.4
+70,"Tangerina, Poncã, crua",Número do,37.83059999999995,374.9,141.8
+70,"Arroz, tipo 2, cozido",Cereais e derivados,130.11964833333332,421.5,548.4
+70,"Sardinha, conserva em óleo",Número do,284.9810048712492,17.7,50.5
+70,"Mostarda, folha, crua",Número do,18.107389052172486,65.6,11.9
+71,"Abóbora, cabotian, cozida","Verduras, hortaliças e derivados",48.04374250000001,770.3,370.1
+71,"Feijão, rajado, cozido",Leguminosas e derivados,84.7018527334929,6.4,5.4
+71,"Porco, lombo, cru",Número do,175.6251952501138,9.9,17.4
+71,"Salada, de legumes, cozida no vapor",Alimentos preparados,35.40810429847241,1278.8,452.8
+71,"Feijão, fradinho, cru",Leguminosas e derivados,339.16476666666665,258.4,876.3
+72,"Cereais, mistura para vitamina, trigo, cevada e aveia",Cereais e derivados,381.1333333333333,211.5,806.2
+72,"Camarão, Rio Grande, grande, cru",Número do,47.18343670543035,91.4,43.1
+72,"Empada de frango, pré-cozida, assada",Número do,358.1916666666667,36.4,130.4
+72,"Banana, ouro, crua",Frutas e derivados,112.36604782608694,345.5,388.3
+72,"Carne, bovina, capa de contra-filé, com gordura, grelhada",Carnes e derivados,311.7026666666667,189.3,590.0
+73,"Arroz, integral, cozido",Cereais e derivados,123.5348925,101.4,125.2
+73,"Porquinho, cru",Número do,93.02456666666666,574.7,534.6
+73,"Cacau, cru",Frutas e derivados,74.29148000000004,168.1,124.9
+73,"Porco, pernil, cru",Número do,186.05575,157.1,292.4
+73,"Jiló, cru",Número do,27.36514347826087,2068.0,565.9
+74,"Farinha, de milho, amarela",Número do,350.58693322738014,5.2,18.4
+74,"Salmão, filé, com pele, fresco,  grelhado",Número do,228.73177513531843,415.0,949.3
+74,"Abóbora, pescoço, crua","Verduras, hortaliças e derivados",24.466267949700352,2013.9,492.7
+74,"Cacau, cru",Frutas e derivados,74.29148000000004,610.9,453.9
+74,"Taioba, crua",Número do,34.208918333333315,142.3,48.7
+75,"Figo, enlatado, em calda",Número do,184.36071739130435,63.3,116.8
+75,"Pão, glúten, forma",Número do,252.99403,123.8,313.2
+75,"Feijão, jalo, cozido",Leguminosas e derivados,92.73992,363.0,336.7
+75,"Lambari, congelado, frito",Número do,326.86839988660813,102.9,336.3
+75,"Mandioca, cozida",Número do,125.35825000000004,77.4,97.1
+76,"Limão, tahiti, cru",Número do,31.818153430163903,70.3,22.4
+76,"Farinha, de mesocarpo de babaçu, crua",Nozes e sementes,328.7714002448336,19.1,62.8
+76,"Carne, bovina, charque, cozido",Carnes e derivados,262.7801422621807,378.6,994.9
+76,"Carne, bovina, lagarto, cru",Número do,134.86456666666663,465.8,628.2
+76,"Alface, crespa, crua","Verduras, hortaliças e derivados",10.68085652173921,989.1,105.6
+77,"Frango, peito, com pele, assado",Número do,211.68314953072863,176.4,373.5
+77,"Batata, baroa, crua","Verduras, hortaliças e derivados",100.98492318840582,121.0,122.2
+77,"Bacalhau, salgado, refogado",Número do,139.66070105353995,382.0,533.5
+77,"Frango, coxa, com pele, crua",Número do,161.47473333333332,36.1,58.3
+77,"Iogurte, sabor pêssego",Leite e derivados,67.84940000000002,854.3,579.6
+78,"Soja, extrato solúvel, natural, fluido",Número do,39.10485527535076,1427.0,558.0
+78,"Carne, bovina, capa de contra-filé, com gordura, crua",Carnes e derivados,216.9089666666667,170.3,369.4
+78,"Achocolatado, pó",Produtos açucarados,401.02,1.6,6.6
+78,"Berinjela, crua",Número do,19.62775362318839,2011.3,394.8
+78,"Aveia, flocos, crua",Cereais e derivados,393.82268944927546,66.3,261.2
+79,"Pão, de soja",Número do,308.7263233333333,31.6,97.4
+79,"Porquinho, cru",Número do,93.02456666666666,93.8,87.2
+79,"Guandu, cru",Leguminosas e derivados,344.1336512849927,119.5,411.1
+79,"Pintado, grelhado",Número do,152.19008833333334,600.4,913.7
+79,"Ameixa, calda, enlatada ",Frutas e derivados,182.84662000000003,86.7,158.5
+80,"Frango, inteiro, sem pele, assado",Número do,187.3377966666667,365.1,684.0
+80,"Mandioca, farofa, temperada",Número do,405.69394166666666,75.5,306.4
+80,"Mexerica, Rio, crua",Número do,36.871350000000064,342.7,126.4
+80,"Atum, fresco, cru",Pescados e frutos do mar,117.50099999999998,53.6,63.0
+80,"Farinha, de centeio, integral",Número do,335.7776627993265,21.5,72.2
+81,"Coxinha de frango, frita",Número do,283.048,94.9,268.7
+81,"Batata, doce, cozida","Verduras, hortaliças e derivados",76.75961050343517,545.0,418.3
+81,"Carne, bovina, charque, cozido",Carnes e derivados,262.7801422621807,170.5,448.1
+81,Creme de Leite,Leite e derivados,221.48354127513312,130.5,289.0
+81,"Mandioca, cozida",Número do,125.35825000000004,153.1,191.9
+82,"Canjica, com leite integral",Cereais e derivados,112.45677722046528,99.0,111.4
+82,"Catalonha, crua",Número do,23.888412257373297,846.2,202.2
+82,"Batata, frita, tipo chips, industrializada","Verduras, hortaliças e derivados",542.7346733841896,52.1,282.9
+82,"Laranja, da terra, crua",Número do,51.47112863928077,2020.2,1039.8
+82,"Lasanha, massa fresca, crua",Número do,220.3056666666667,43.0,94.7
+83,"Ervilha, enlatada, drenada",Leguminosas e derivados,73.8447043478261,162.5,120.0
+83,"Açúcar, cristal",Produtos açucarados,386.845724,60.9,235.5
+83,"Alho, cru","Verduras, hortaliças e derivados",113.12987826086956,95.9,108.5
+83,"Lingüiça, frango, grelhada",Número do,243.6585675,535.8,1305.6
+83,"Pastel, massa, crua",Número do,310.2025143333333,73.0,226.5
+84,"Salmão, sem pele, fresco, grelhado",Número do,242.7065694870949,15.5,37.6
+84,"Batata, inglesa, crua","Verduras, hortaliças e derivados",64.3702260869565,330.4,212.7
+84,"Frango, sobrecoxa, sem pele, assada",Número do,232.88339666666667,89.2,207.6
+84,"Porco, bisteca, frita",Número do,311.1690453348557,274.0,852.5
+84,"Fermento, biológico, levedura, tablete",Miscelâneas,89.79486703058885,318.0,285.5
+85,"Coxinha de frango, frita",Número do,283.048,97.4,275.6
+85,"Croquete, de carne, frito",Número do,346.7420146474044,234.4,812.8
+85," Mamão, doce em calda, drenado",Número do,195.62747482178608,87.7,171.5
+85,"Pimentão, vermelho, cru",Número do,23.28136376811601,1193.8,277.9
+85,"Pintado, cru",Número do,91.08323333333333,110.0,100.2
+86,"Lentilha, crua",Número do,339.1412402035533,139.4,472.8
+86,Camarão à baiana,Alimentos preparados,100.78304300403596,309.7,312.1
+86,"Pimentão, amarelo, cru",Número do,27.92745942028985,167.0,46.6
+86,"Cupuaçu, cru",Número do,49.42255877437193,603.8,298.4
+86,"Ovo, de galinha, clara, cozida/10minutos",Ovos e derivados,59.43569666666667,959.1,570.0
+87,"Farinha, de mandioca, crua",Número do,360.8696985507246,130.7,471.8
+87,"Azeitona, preta, conserva",Outros alimentos industrializados,194.1538470209837,216.4,420.1
+87,"Cação, posta, crua",Número do,83.33302501956622,279.7,233.1
+87,"Queijo, prato",Número do,359.88046240505474,19.4,70.0
+87,"Manjuba, com farinha de trigo, frita",Número do,343.55045872306823,229.4,788.0
+88,"Porco, rabo, salgado, cru",Número do,377.4152575,13.1,49.3
+88,Virado à paulista,Número do,306.94678645131984,190.0,583.0
+88,"Farinha, de milho, amarela",Número do,350.58693322738014,295.5,1036.0
+88,"Carne, bovina, bucho, cozido",Carnes e derivados,133.02286666666666,35.1,46.7
+88,"Carne, bovina, coxão duro, sem gordura, cru",Número do,147.96633333333335,102.0,150.9
+89,"Abóbora, cabotian, crua","Verduras, hortaliças e derivados",38.59929420289856,1616.2,623.8
+89,"Batata, inglesa, cozida","Verduras, hortaliças e derivados",51.588476636270656,980.1,505.6
+89,"Carne, bovina, filé mingnon, sem gordura, grelhado",Número do,219.7026,82.2,180.5
+89,"Macarrão, instantâneo",Número do,435.8647805333334,15.7,68.4
+89,"Fermento, biológico, levedura, tablete",Miscelâneas,89.79486703058885,351.5,315.6
+90,"Porco, pernil, cru",Número do,186.05575,54.1,100.6
+90,"Mamão, Formosa, cru",Número do,45.34074782608691,1151.7,522.2
+90,"Capuccino, pó",Miscelâneas,417.4066666666667,122.0,509.4
+90,"Seleta de legumes, enlatada",Número do,56.53377246376815,665.8,376.4
+90,Quindim,Número do,411.3487215708494,95.9,394.4
+91,"Linhaça, semente",Nozes e sementes,495.0961138436508,58.4,289.1
+91,"Presunto, sem capa de gordura",Número do,93.7432807208697,114.2,107.0
+91,"Abobrinha, italiana, refogada","Verduras, hortaliças e derivados",24.42960218765336,562.6,137.4
+91,"Porco, lombo, cru",Número do,175.6251952501138,565.2,992.6
+91,"Carne, bovina, peito, sem gordura, cru",Número do,259.2756333333333,112.9,292.8
+92,"Manga, Palmer, crua",Número do,72.48673809168733,62.9,45.6
+92,"Iogurte, natural",Leite e derivados,51.48953333333329,1823.0,938.6
+92,"Tapioca, com manteiga",Número do,347.8265562578241,112.3,390.5
+92,"Cupuaçu, polpa, congelada",Número do,48.79688999999999,1124.3,548.6
+92,"Banana, doce em barra",Frutas e derivados,280.10519255063934,25.2,70.6
+93,"Carne, bovina, bucho, cozido",Carnes e derivados,133.02286666666666,5.3,7.1
+93,"Frango, asa, com pele, crua",Número do,213.18833333333333,1.2,2.6
+93,"Salada, de legumes, com maionese",Alimentos preparados,96.10358839845657,117.9,113.3
+93,"Pão, de soja",Número do,308.7263233333333,315.4,973.6
+93,Estrogonofe de frango,Alimentos preparados,156.80610301323728,359.3,563.4
+94,"Porco, orelha, salgada, crua",Número do,258.49175833333334,130.4,337.0
+94,"Agrião, cru","Verduras, hortaliças e derivados",16.578801449275325,1247.1,206.8
+94,"Laranja, baía, crua",Número do,45.43811739130433,1643.3,746.7
+94,Mortadela,Número do,268.8199890167316,78.9,212.1
+94,"Carne, bovina, maminha, crua",Número do,152.76586666666665,151.5,231.5
+95,"Feijão, preto, cru",Leguminosas e derivados,323.5657115942029,8.2,26.4
+95,"Maracujá, polpa, congelada",Número do,38.75969999999999,1915.5,742.5
+95,"Ovo, de codorna, inteiro, cru",Ovos e derivados,176.89389999999997,403.7,714.2
+95,"Lasanha, massa fresca, crua",Número do,220.3056666666667,61.8,136.1
+95,"Azeitona, verde, conserva",Número do,136.93643000000003,75.1,102.9
+96,"Quibe, assado",Número do,136.22887614158785,118.6,161.6
+96,Quibebe,Alimentos preparados,86.349230299592,76.0,65.6
+96,"Hambúrguer, bovino, cru",Número do,214.836,277.3,595.8
+96,"Abóbora, cabotian, cozida","Verduras, hortaliças e derivados",48.04374250000001,776.7,373.2
+96,"Batata, inglesa, frita","Verduras, hortaliças e derivados",267.15742250204084,116.4,310.9
+97,"Couve-flor, crua",Número do,22.56334927536229,1172.7,264.6
+97,"Queijo, parmesão",Leite e derivados,452.9637553333333,190.9,864.6
+97,"Batata, doce, crua","Verduras, hortaliças e derivados",118.24137536231882,126.2,149.2
+97,"Tremoço, em conserva",Número do,120.64258534487092,433.7,523.2
+97,Tacacá,Número do,46.88917715120316,122.3,57.3
+98,"Coco, cru",Nozes e sementes,406.4873531078099,114.8,466.5
+98,"Lentilha, cozida",Leguminosas e derivados,92.63876625229916,225.3,208.7
+98,"Carne, bovina, charque, cozido",Carnes e derivados,262.7801422621807,6.8,17.8
+98,"Pé-de-moleque, amendoim",Número do,503.1903658399557,145.6,732.6
+98,"Lingüiça, frango, crua",Número do,218.10881416666663,195.5,426.4
+99,"Leite, de coco",Número do,166.16030161554647,197.9,328.8
+99,"Tangerina, Poncã, crua",Número do,37.83059999999995,1092.9,413.4
+99,"Carne, bovina, capa de contra-filé, com gordura, crua",Carnes e derivados,216.9089666666667,40.4,87.7
+99,"Achocolatado, pó",Produtos açucarados,401.02,194.2,778.7
+99,"Sardinha, frita",Número do,257.0407,74.8,192.3
+100,Vaca atolada,Número do,144.89697968479,644.7,934.1
+100,"Caju, polpa, congelada",Frutas e derivados,36.568679999999965,197.7,72.3
+100,"Banana, da terra, crua",Frutas e derivados,128.02445217391306,105.4,134.9
+100,"Jamelão, cru",Número do,41.00970891670385,861.9,353.5
+100,"Frango, peito, com pele, cru",Número do,149.46526666666665,172.7,258.1
+101,"Frango, peito, com pele, cru",Número do,149.46526666666665,343.9,514.0
+101,"Cebolinha, crua",Número do,19.51588550724644,401.3,78.3
+101,"Amendoim, torrado, salgado",Leguminosas e derivados,605.7810929170192,125.0,757.2
+101,"Pintado, grelhado",Número do,152.19008833333334,94.4,143.6
+101,"Couve, manteiga, refogada ",Número do,90.34481542611124,26.4,23.8
+102,"Quibe, cru",Número do,109.49066929475464,163.8,179.3
+102,"Goiaba, vermelha, com casca, crua",Número do,54.16993043478262,1197.0,648.4
+102,"Feijão, roxo, cozido",Leguminosas e derivados,76.89338231790063,36.7,28.2
+102,Virado à paulista,Número do,306.94678645131984,94.5,290.1
+102,"Mandioca, cozida",Número do,125.35825000000004,454.6,569.9
+103,Sarapatel,Alimentos preparados,122.98185821243132,58.7,72.2
+103,"Refrigerante, tipo limão",Bebidas (alcoólicas e não alcoólicas),39.71910000000001,715.2,284.1
+103,"Carne, bovina, almôndegas, fritas",Carnes e derivados,271.813,256.1,696.1
+103,"Coco, cru",Nozes e sementes,406.4873531078099,121.0,491.7
+103,"Maçã, Fuji, com casca, crua",Número do,55.51520000000005,336.8,187.0
+104,"Banana, maçã, crua",Frutas e derivados,86.80533043478259,813.5,706.2
+104,"Nhoque, batata, cozido",Número do,180.7752739934126,147.1,265.8
+104,"Pão, de queijo, cru",Número do,294.538,49.1,144.5
+104,"Carne, bovina, língua, crua",Número do,215.24976666666663,58.0,124.8
+104,"Frango, peito, sem pele, grelhado",Número do,159.18500719261172,171.9,273.7
+105,"Chocolate, meio amargo",Número do,474.9177699732738,101.5,482.0
+105,"Carne, bovina, cupim, assado",Número do,330.1002908333333,76.5,252.4
+105,"Jurubeba, crua",Número do,125.81163499999998,92.7,116.7
+105,"Macarrão, instantâneo",Número do,435.8647805333334,199.5,869.7
+105,"Porquinho, cru",Número do,93.02456666666666,50.7,47.2
+106,"Arroz, integral, cozido",Cereais e derivados,123.5348925,207.1,255.8
+106,"Açúcar, mascavo",Número do,368.5548225243887,3.4,12.4
+106,"Presunto, com capa de gordura",Número do,127.84921266563737,776.6,992.8
+106,"Porco, bisteca, grelhada",Número do,280.0840349027713,45.2,126.7
+106,"Cajá, polpa, congelada",Frutas e derivados,26.332269311050556,1398.7,368.3
+107,"Inhame, cru",Número do,96.69983188405796,1001.7,968.6
+107,"Chá, erva-doce, infusão 5%",Bebidas (alcoólicas e não alcoólicas),1.3970599738756386,32557.5,454.8
+107,"Castanha-de-caju, torrada, salgada",Nozes e sementes,570.167626501619,38.4,219.1
+107,"Tucupi, com pimenta-de-cheiro",Número do,27.1837984027266,1383.4,376.1
+107,"Corvina grande, assada",Número do,146.52814112536112,46.6,68.3
+108,"Soja, extrato solúvel, natural, fluido",Número do,39.10485527535076,1081.3,422.8
+108,"Goiaba, doce em pasta",Número do,268.9598260869565,253.3,681.4
+108,"Queijo, pasteurizado",Leite e derivados,303.07980333333325,62.7,190.1
+108,"Feijão, carioca, cru",Leguminosas e derivados,329.0267362318841,61.8,203.2
+108,"Abobrinha, italiana, refogada","Verduras, hortaliças e derivados",24.42960218765336,1585.9,387.4
+109,"Sardinha, conserva em óleo",Número do,284.9810048712492,242.6,691.4
+109,"Leite, de coco",Número do,166.16030161554647,221.4,367.9
+109,"Figo, cru",Número do,41.44712608695652,1452.5,602.0
+109,"Manga, Tommy Atkins, crua",Número do,50.69218260869563,307.7,156.0
+109,"Cuxá, molho",Alimentos preparados,80.09161563650767,105.7,84.6
+110,"Queijo, mozarela",Leite e derivados,329.8707184208871,31.1,102.6
+110,"Couve-flor, cozida",Número do,19.114140614728186,457.8,87.5
+110,"Jabuticaba, crua",Número do,58.05315000000004,117.4,68.2
+110,"Carne, bovina, língua, cozida",Número do,314.9016,145.9,459.4
+110,"Frango, peito, com pele, cru",Número do,149.46526666666665,714.1,1067.3
+111,"Polvilho, doce",Número do,351.2267333333333,25.9,90.9
+111,"Inhame, cru",Número do,96.69983188405796,201.7,195.0
+111,"Feijão, roxo, cru",Leguminosas e derivados,331.4149774567286,130.4,432.2
+111,"Banana, doce em barra",Frutas e derivados,280.10519255063934,32.8,91.9
+111,"Carne, bovina, cupim, assado",Número do,330.1002908333333,183.6,606.0
+112,"Grão-de-bico, cru",Leguminosas e derivados,354.7028765890996,47.3,167.6
+112,"Hambúrguer, bovino, cru",Número do,214.836,303.4,651.7
+112,"Caldo de galinha, tablete",Carnes e derivados,251.44566666666665,20.8,52.3
+112,"Carne, bovina, seca, cozida",Número do,312.799033691446,279.8,875.2
+112,"Bife à cavalo, com contra filé",Alimentos preparados,291.2295092449586,16.5,48.2
+113,"Ovo, de galinha, inteiro, frito",Ovos e derivados,240.1872240091165,9.0,21.6
+113,"Amendoim, grão, cru",Leguminosas e derivados,544.0526557994334,15.8,86.0
+113,Maria mole,Número do,301.2358875369997,150.5,453.2
+113,"Carne, bovina, contra-filé, com gordura, cru",Número do,205.8567,497.9,1024.9
+113,"Carne, bovina, músculo, sem gordura, cru",Número do,141.581,159.8,226.3
+114," Mamão, doce em calda, drenado",Número do,195.62747482178608,0.9,1.8
+114,Tabule,Alimentos preparados,57.45347668848058,52.4,30.1
+114,"Carne, bovina, patinho, sem gordura, cru",Número do,133.46889999999996,341.3,455.6
+114,"Cereais, milho, flocos, sem sal",Cereais e derivados,363.3383166666666,462.2,1679.3
+114,"Pão, trigo, forma, integral",Número do,253.1936183333333,49.8,126.2
+115,"Porco, pernil, assado",Número do,262.2596066666666,55.7,146.0
+115,"Goiaba, doce, cascão",Número do,285.5877924390037,173.1,494.2
+115,"Óleo, de soja",Gorduras e óleos,884.0,43.0,380.1
+115,"Batata, baroa, cozida","Verduras, hortaliças e derivados",80.11976250000004,432.6,346.6
+115,"Frango, sobrecoxa, sem pele, crua",Número do,161.79629999999997,244.2,395.1
+116,L,Alimentos preparados,116.9334573110342,189.0,221.0
+116,"Frango, peito, sem pele, cozido",Número do,162.87476334631444,145.1,236.4
+116,"Batata, inglesa, crua","Verduras, hortaliças e derivados",64.3702260869565,745.5,479.9
+116,"Mexerica, Murcote, crua",Número do,57.592778474648775,1025.4,590.5
+116,"Fécula, de mandioca",Número do,330.85055833333337,100.4,332.3
+117,"Seleta de legumes, enlatada",Número do,56.53377246376815,835.8,472.5
+117,"Feijão, fradinho, cozido",Leguminosas e derivados,78.00889666666667,45.7,35.7
+117,"Cacau, cru",Frutas e derivados,74.29148000000004,22.1,16.4
+117,"Açúcar, cristal",Produtos açucarados,386.845724,322.4,1247.1
+117,"Macarrão, trigo, cru, com ovos",Número do,370.5671133333334,5.8,21.3
+118,"Geléia, mocotó, natural",Número do,106.08666666666662,266.9,283.1
+118,"Margarina, com óleo hidrogenado, sem sal (80% de lipídeos)",Gorduras e óleos,722.525625804901,16.1,116.1
+118,"Azeite, de dendê",Gorduras e óleos,884.0,30.2,267.1
+118,"Amendoim, torrado, salgado",Leguminosas e derivados,605.7810929170192,84.9,514.6
+118,"Nabo, cru",Número do,18.18662463768122,2117.8,385.2
+119,"Ovo, de galinha, inteiro, cru",Ovos e derivados,143.11173333333335,145.7,208.5
+119,"Salpicão, de frango",Alimentos preparados,147.8645961340268,980.0,1449.0
+119,"Tucupi, com pimenta-de-cheiro",Número do,27.1837984027266,182.3,49.6
+119,"Pimentão, vermelho, cru",Número do,23.28136376811601,1032.0,240.3
+119,"Soja, extrato solúvel, natural, fluido",Número do,39.10485527535076,208.8,81.6
+120,"Castanha-do-Brasil, crua",Nozes e sementes,642.9630716810693,61.8,397.6
+120,"Ovo, de codorna, inteiro, cru",Ovos e derivados,176.89389999999997,529.8,937.1
+120,"Amêndoa, torrada, salgada",Nozes e sementes,580.7469545560705,29.5,171.6
+120,"Batata, inglesa, cozida","Verduras, hortaliças e derivados",51.588476636270656,794.6,409.9
+120,"Abóbora, pescoço, crua","Verduras, hortaliças e derivados",24.466267949700352,137.7,33.7
+121,"Biscoito, doce, recheado com morango",Cereais e derivados,471.1747362318841,166.6,785.2
+121,"Porco, rabo, salgado, cru",Número do,377.4152575,58.3,220.2
+121,"Jaca, crua",Número do,87.92034999999997,202.0,177.6
+121,"Carne, bovina, flanco, sem gordura, cru",Número do,141.46009999999998,342.1,484.0
+121,"Hambúrguer, bovino, frito",Número do,258.283,112.7,291.0
+122,"Feijão, rajado, cru",Leguminosas e derivados,325.84441116273405,45.1,146.9
+122,"Queijo, requeijão, cremoso",Número do,256.57814866666666,147.8,379.2
+122,"Abobrinha, italiana, refogada","Verduras, hortaliças e derivados",24.42960218765336,843.4,206.0
+122,"Limão, galego, suco",Número do,22.22504347826089,2632.9,585.2
+122,"Polvilho, doce",Número do,351.2267333333333,85.6,300.7
+123,"Ervilha, em vagem",Leguminosas e derivados,88.09358199977854,1123.2,989.4
+123,"Arroz, tipo 1, cru",Cereais e derivados,357.789273115942,59.9,214.3
+123,"Carne, bovina, costela, crua",Número do,357.72246666666666,204.6,731.9
+123,"Canjica, branca, crua",Cereais e derivados,357.60259,19.6,70.1
+123,"Cenoura, cozida",Número do,29.86177771015958,252.2,75.3
+124,"Atum, conserva em óleo",Pescados e frutos do mar,165.91056057890256,14.2,23.6
+124,"Açaí, polpa, com xarope de guaraná e glucose",Frutas e derivados,110.29759,512.3,565.0
+124,"Linhaça, semente",Nozes e sementes,495.0961138436508,46.6,230.5
+124,"Banana, prata, crua",Frutas e derivados,98.24970217391306,261.8,257.2
+124,"Farinha, de mandioca, crua",Número do,360.8696985507246,122.9,443.7
+125,"Inhame, cru",Número do,96.69983188405796,731.8,707.7
+125,"Castanha-de-caju, torrada, salgada",Nozes e sementes,570.167626501619,23.8,135.6
+125,"Tomate, molho industrializado",Número do,38.446549460490566,1372.6,527.7
+125,"Pescada, filé, cru",Número do,107.20556666666666,358.5,384.3
+125,"Manga, Tommy Atkins, crua",Número do,50.69218260869563,319.0,161.7
+126,"Porco, bisteca, grelhada",Número do,280.0840349027713,134.1,375.6
+126,"Iogurte, sabor morango",Leite e derivados,69.56560000000003,1104.3,768.2
+126,"Atum, fresco, cru",Pescados e frutos do mar,117.50099999999998,351.5,413.0
+126,"Graviola, polpa, congelada",Número do,38.27386999999997,574.7,220.0
+126,"Lingüiça, frango, grelhada",Número do,243.6585675,189.3,461.2
+127,"Pinha, crua",Número do,88.4735276668668,99.0,87.6
+127,"Toucinho, cru",Número do,592.5311749999998,32.4,191.8
+127,"Frango, peito, com pele, assado",Número do,211.68314953072863,232.2,491.5
+127,"Cereais, milho, flocos, sem sal",Cereais e derivados,363.3383166666666,198.0,719.6
+127,"Macarrão, trigo, cru, com ovos",Número do,370.5671133333334,30.1,111.5
+128,"Biscoito, doce, recheado com morango",Cereais e derivados,471.1747362318841,11.7,55.2
+128,"Laranja, lima, crua",Número do,45.70103878062962,273.2,124.9
+128,"Porco, rabo, salgado, cru",Número do,377.4152575,161.3,608.6
+128,"Bacalhau, salgado, refogado",Número do,139.66070105353995,379.9,530.5
+128,"Carne, bovina, miolo de alcatra, sem gordura, grelhado",Número do,241.36396666666667,152.4,367.8
+129,"Tomate, salada",Número do,20.54690916666664,2623.9,539.1
+129,"Coco, água de",Bebidas (alcoólicas e não alcoólicas),21.50859424050649,3565.6,766.9
+129,Quibebe,Alimentos preparados,86.349230299592,236.2,203.9
+129,"Bacalhau, salgado, cru",Número do,135.89296666666664,81.5,110.7
+129,"Caldo de carne, tablete",Carnes e derivados,240.6233333333333,82.8,199.3
+130,"Pintado, grelhado",Número do,152.19008833333334,280.0,426.2
+130,"Jiló, cru",Número do,27.36514347826087,317.1,86.8
+130,"Abobrinha, italiana, refogada","Verduras, hortaliças e derivados",24.42960218765336,590.0,144.1
+130,"Camarão, Rio Grande, grande, cru",Número do,47.18343670543035,646.8,305.2
+130,"Laranja, valência, suco",Número do,36.19635058768591,2035.4,736.8
+131,"Carne, bovina, coxão duro, sem gordura, cru",Número do,147.96633333333335,115.3,170.6
+131,"Acerola, crua",Frutas e derivados,33.46227000000003,1775.8,594.2
+131,"Ameixa, calda, enlatada ",Frutas e derivados,182.84662000000003,13.3,24.3
+131,"Merluza, filé, frito",Número do,191.62747837583225,171.7,329.0
+131,"Carne, bovina, acém, sem gordura, cru",Carnes e derivados,144.02943333333332,258.2,371.9
+132,"Baião de dois, arroz e feijão-de-corda",Alimentos preparados,135.68133333333333,306.7,416.1
+132,"Soja, queijo (tofu)",Número do,64.48509407389021,542.9,350.1
+132,"Carne, bovina, charque, cru",Carnes e derivados,248.861018107454,358.7,892.7
+132,"Refrigerante, tipo guaraná",Bebidas (alcoólicas e não alcoólicas),38.7,145.8,56.4
+132,"Camarão, Sete Barbas, sem cabeça, com casca, frito",Número do,231.24615385087333,42.6,98.6
+133,"Farinha, de rosca",Número do,370.5780966666666,79.9,296.2
+133,"Cenoura, crua",Número do,34.13538840579714,166.9,57.0
+133,"Bacalhau, salgado, refogado",Número do,139.66070105353995,45.0,62.9
+133,"Pé-de-moleque, amendoim",Número do,503.1903658399557,41.2,207.5
+133,"Tomate, salada",Número do,20.54690916666664,4693.5,964.4
+134,"Linhaça, semente",Nozes e sementes,495.0961138436508,69.8,345.7
+134,"Laranja, da terra, suco",Número do,40.95600731086733,2585.5,1058.9
+134,"Pintado, cru",Número do,91.08323333333333,39.6,36.1
+134,"Agrião, cru","Verduras, hortaliças e derivados",16.578801449275325,1593.5,264.2
+134,Cocada branca,Número do,448.84545242331023,42.3,190.1
+135,"Queijo, prato",Número do,359.88046240505474,92.3,332.3
+135,"Empada de frango, pré-cozida, assada",Número do,358.1916666666667,30.0,107.5
+135,"Atum, fresco, cru",Pescados e frutos do mar,117.50099999999998,97.6,114.6
+135,"Frango, asa, com pele, crua",Número do,213.18833333333333,70.3,149.9
+135,"Porco, pernil, cru",Número do,186.05575,490.0,911.7
+136,"Doce, de leite, cremoso",Número do,306.31013023105874,72.0,220.6
+136,"Óleo, de pequi",Gorduras e óleos,884.0,25.0,220.9
+136,"Frango, coxa, sem pele, crua",Número do,119.9474666666666,950.7,1140.3
+136,"Queijo, petit suisse, morango",Número do,121.105954,290.9,352.3
+136,"Melão, cru",Número do,29.369391304347808,598.9,175.9
+137,Estrogonofe de carne,Alimentos preparados,173.1413643180132,82.8,143.4
+137,"Carne, bovina, almôndegas, cruas",Carnes e derivados,189.2566666666666,127.8,241.8
+137,"Farinha, de puba",Número do,360.17977487993244,2.3,8.2
+137,Virado à paulista,Número do,306.94678645131984,15.8,48.5
+137,"Frango, caipira, inteiro, sem pele, cozido",Número do,195.76029666666665,613.6,1201.2
+138,"Carne, bovina, contra-filé, com gordura, grelhado",Número do,278.05356666666665,84.7,235.6
+138,"Pão, trigo, sovado",Número do,310.96494,42.3,131.7
+138,"Frango, inteiro, sem pele, cru",Número do,129.09640000000002,2.2,2.8
+138,"Soja, queijo (tofu)",Número do,64.48509407389021,159.4,102.8
+138,"Cereais, mingau, milho, infantil",Cereais e derivados,394.4275217391304,320.2,1263.1
+139,"Pão, trigo, francês",Número do,299.8101504347826,13.3,39.9
+139,"Repolho, roxo, cru",Número do,30.907502954324087,1067.1,329.8
+139,"Lingüiça, frango, crua",Número do,218.10881416666663,321.7,701.7
+139,"Laranja, valência, suco",Número do,36.19635058768591,1294.3,468.5
+139,"Frango, inteiro, sem pele, cozido",Número do,170.38997583333332,248.3,423.1
+140,"Jurubeba, crua",Número do,125.81163499999998,94.7,119.1
+140,"Agrião, cru","Verduras, hortaliças e derivados",16.578801449275325,100.8,16.7
+140,"Carne, bovina, fígado, grelhado",Número do,225.0264,87.4,196.8
+140,"Salpicão, de frango",Alimentos preparados,147.8645961340268,172.0,254.3
+140,"Tremoço, em conserva",Número do,120.64258534487092,801.6,967.0
+141," Mamão, doce em calda, drenado",Número do,195.62747482178608,299.3,585.6
+141,"Inhame, cru",Número do,96.69983188405796,212.2,205.2
+141,"Refrigerante, tipo cola",Bebidas (alcoólicas e não alcoólicas),33.514200000000045,2513.4,842.3
+141,"Corvina de água doce, crua",Número do,101.00903333333332,65.1,65.7
+141,"Soja, farinha",Número do,403.955845810399,36.2,146.1
+142,"Carne, bovina, língua, crua",Número do,215.24976666666663,199.8,430.1
+142,"Carne, bovina, costela, assada",Número do,373.03886666666665,151.5,565.0
+142,"Óleo, de babaçu",Gorduras e óleos,884.0,0.3,2.2
+142,"Laranja, baía, suco",Número do,36.64948260869561,1735.9,636.2
+142,"Cerveja, pilsen 2",Bebidas (alcoólicas e não alcoólicas),40.72018855062866,1049.9,427.5
+143,"Uva, suco concentrado, envasado",Número do,57.65536,677.1,390.4
+143,"Aipo, cru","Verduras, hortaliças e derivados",19.09145664497062,537.0,102.5
+143,"Cenoura, crua",Número do,34.13538840579714,1011.7,345.4
+143,"Laranja, pêra, suco",Número do,32.70975362318838,540.5,176.8
+143,"Bife à cavalo, com contra filé",Alimentos preparados,291.2295092449586,159.3,463.9
+144,Acarajé,Alimentos preparados,289.21166666666664,4.0,11.4
+144,"Pimentão, verde, cru",Número do,21.28588115942029,941.8,200.5
+144,"Milho, verde, cru",Número do,138.166565,1078.9,1490.7
+144,"Abadejo, filé, congelado, assado",Pescados e frutos do mar,111.6155034511884,9.0,10.0
+144,"Quibe, assado",Número do,136.22887614158785,91.3,124.4
+145,"Couve, manteiga, crua",Número do,27.05669710144928,1687.0,456.4
+145,"Cebola, crua",Número do,39.420046376811584,195.7,77.1
+145,"Pão, glúten, forma",Número do,252.99403,199.1,503.6
+145,"Alho-poró, cru","Verduras, hortaliças e derivados",31.5079193532467,2371.0,747.1
+145,"Repolho, roxo, cru",Número do,30.907502954324087,219.3,67.8
+146,"Chuchu, cru",Número do,16.97891884057972,1042.9,177.1
+146,"Ovo, de galinha, inteiro, cozido/10minutos",Ovos e derivados,145.70017,30.1,43.8
+146,"Milho, fubá, cru",Número do,353.482268115942,143.4,506.9
+146,"Berinjela, cozida",Número do,18.845285556813074,1224.1,230.7
+146,"Castanha-de-caju, torrada, salgada",Nozes e sementes,570.167626501619,175.0,997.6
+147,"Carne, bovina, contra-filé, sem gordura, cru",Número do,156.6158333333333,183.1,286.8
+147,"Beterraba, crua",Número do,48.82850869565215,16.9,8.2
+147,"Carne, bovina, paleta, sem gordura, cozida",Número do,193.6524,513.1,993.7
+147,"Frango, filé, à milanesa",Número do,220.87278,7.5,16.6
+147,"Bolo, mistura para",Cereais e derivados,418.6333333333333,59.2,247.7
+148,"Cenoura, cozida",Número do,29.86177771015958,1153.7,344.5
+148,"Dourada de água doce, fresca",Número do,131.2083147237698,186.0,244.0
+148,"Pamonha, barra para cozimento, pré-cozida",Número do,171.2191116666667,2.6,4.5
+148,"Carne, bovina, língua, crua",Número do,215.24976666666663,46.6,100.3
+148,"Porco, bisteca, frita",Número do,311.1690453348557,238.7,742.7
+149,"Alho-poró, cru","Verduras, hortaliças e derivados",31.5079193532467,1253.9,395.1
+149,"Goiaba, doce em pasta",Número do,268.9598260869565,285.2,767.0
+149,"Carne, bovina, picanha, sem gordura, grelhada",Número do,238.4681333333333,88.9,212.1
+149,"Biscoito, polvilho doce",Número do,437.549,66.9,292.5
+149,Cocada branca,Número do,448.84545242331023,41.7,187.3
+150,"Cenoura, cozida",Número do,29.86177771015958,1960.1,585.3
+150,"Açúcar, refinado",Número do,386.5748239999999,28.7,111.0
+150,"Ervilha, enlatada, drenada",Leguminosas e derivados,73.8447043478261,112.5,83.1
+150,"Pescadinha, crua",Número do,76.40890833333334,118.4,90.5
+150,"Batata, baroa, cozida","Verduras, hortaliças e derivados",80.11976250000004,1359.3,1089.1
+151,"Carne, bovina, fígado, cru",Número do,141.04586666666663,404.4,570.4
+151,Bolinho de arroz,Alimentos preparados,273.5143333333333,161.5,441.8
+151,"Lingüiça, porco, crua",Número do,227.2034508333333,197.3,448.3
+151,"Leite, de vaca, desnatado, pó",Leite e derivados,361.608,24.5,88.5
+151,"Torrada, pão francês",Número do,377.422283,106.2,401.0
+152,"Carne, bovina, flanco, sem gordura, cozido",Número do,195.5753666666667,130.7,255.7
+152,"Carne, bovina, patinho, sem gordura, grelhado",Número do,219.25926666666663,91.0,199.5
+152,"Kiwi, cru",Número do,51.13633043478264,151.7,77.6
+152,"Fécula, de mandioca",Número do,330.85055833333337,402.1,1330.5
+152,"Batata, baroa, cozida","Verduras, hortaliças e derivados",80.11976250000004,7.2,5.7
+153,"Pescada, filé, cru",Número do,107.20556666666666,689.0,738.6
+153,"Espinafre, Nova Zelândia, cru",Número do,16.095694202898525,651.0,104.8
+153,"Pinhão, cozido",Nozes e sementes,174.36990200000002,195.3,340.6
+153,"Frango, coração, cru",Número do,221.5028333333333,148.4,328.7
+153,"Couve, manteiga, refogada ",Número do,90.34481542611124,167.4,151.3
+154,"Canjica, branca, crua",Cereais e derivados,357.60259,139.3,498.0
+154,"Curau, milho verde",Cereais e derivados,78.43381831365585,162.2,127.3
+154,"Pescada, branca, frita",Número do,223.0397323693037,133.3,297.2
+154,"Serralha, crua",Número do,30.397934166666644,1844.3,560.6
+154,"Banana, doce em barra",Frutas e derivados,280.10519255063934,129.5,362.9
+155,Camarão à baiana,Alimentos preparados,100.78304300403596,441.7,445.2
+155,"Cana, aguardente 1",Bebidas (alcoólicas e não alcoólicas),215.6616,383.7,827.5
+155,"Bacalhau, salgado, cru",Número do,135.89296666666664,25.9,35.1
+155,"Pimentão, amarelo, cru",Número do,27.92745942028985,412.3,115.2
+155,"Coxinha de frango, frita",Número do,283.048,154.0,436.0
+156,"Frango, asa, com pele, crua",Número do,213.18833333333333,73.0,155.7
+156,"Pé-de-moleque, amendoim",Número do,503.1903658399557,181.6,913.8
+156,"Pimentão, vermelho, cru",Número do,23.28136376811601,507.8,118.2
+156,"Abóbora, cabotian, cozida","Verduras, hortaliças e derivados",48.04374250000001,229.3,110.2
+156,"Ervilha, enlatada, drenada",Leguminosas e derivados,73.8447043478261,486.3,359.1
+157,"Repolho, branco, cru",Número do,17.11880289855071,2738.5,468.8
+157,"Tremoço, em conserva",Número do,120.64258534487092,301.2,363.4
+157,"Queijo, requeijão, cremoso",Número do,256.57814866666666,307.3,788.4
+157,"Pitanga, polpa, congelada",Número do,19.10545950235922,1984.9,379.2
+157,"Café, pó, torrado",Miscelâneas,418.6186666666666,41.4,173.1
+158,"Corvina de água doce, crua",Número do,101.00903333333332,586.1,592.1
+158," Mamão, doce em calda, drenado",Número do,195.62747482178608,131.0,256.3
+158,"Carne, bovina, acém, moído, cru",Carnes e derivados,136.56233333333333,53.1,72.6
+158,"Jurubeba, crua",Número do,125.81163499999998,17.1,21.5
+158,"Batata, inglesa, crua","Verduras, hortaliças e derivados",64.3702260869565,1479.9,952.6
+159,"Sardinha, inteira, crua",Número do,113.90036666666666,38.3,43.7
+159,"Arroz, integral, cozido",Cereais e derivados,123.5348925,358.2,442.5
+159,"Iogurte, natural, desnatado",Leite e derivados,41.49271128155834,230.7,95.7
+159,"Milho, verde, cru",Número do,138.166565,600.4,829.6
+159,"Carne, bovina, capa de contra-filé, sem gordura, grelhada",Carnes e derivados,239.44363333333328,62.9,150.6
+160,"Carne, bovina, coxão duro, sem gordura, cozido",Número do,216.616066666667,550.5,1192.4
+160,"Graviola, crua",Número do,61.62189837666358,30.0,18.5
+160,"Tucunaré, filé, congelado, cru",Número do,87.686483549277,30.3,26.5
+160,"Carne, bovina, acém, moído, cru",Carnes e derivados,136.56233333333333,368.0,502.5
+160,"Tomate, purê",Número do,27.93687971014494,683.8,191.0
+161,"Tucunaré, filé, congelado, cru",Número do,87.686483549277,284.4,249.4
+161,"Geléia, mocotó, natural",Número do,106.08666666666662,201.9,214.2
+161,"Salsa, crua",Número do,33.424111594202884,81.8,27.4
+161,"Cana, aguardente 1",Bebidas (alcoólicas e não alcoólicas),215.6616,457.0,985.6
+161,"Noz, crua",Nozes e sementes,620.0600197905668,20.7,128.5
+162,"Carne, bovina, capa de contra-filé, com gordura, grelhada",Carnes e derivados,311.7026666666667,136.9,426.8
+162,"Café, infusão 10%",Bebidas (alcoólicas e não alcoólicas),9.070868599613515,4988.7,452.5
+162,"Almeirão, refogado","Verduras, hortaliças e derivados",65.08191082886853,682.2,444.0
+162,"Milho, fubá, cru",Número do,353.482268115942,109.8,388.1
+162,"Coentro, folhas desidratadas",Número do,309.0707468044758,71.4,220.6
+163,"Toucinho, cru",Número do,592.5311749999998,22.8,135.3
+163,"Farinha, de centeio, integral",Número do,335.7776627993265,258.2,867.1
+163,"Uva, Itália, crua",Número do,52.87310000000007,1058.3,559.6
+163,"Jiló, cru",Número do,27.36514347826087,987.2,270.1
+163,"Abadejo, filé, congelado, grelhado",Pescados e frutos do mar,129.6435259028673,134.9,174.9
+164,"Leite, de coco",Número do,166.16030161554647,145.2,241.3
+164,"Biscoito, doce, maisena",Cereais e derivados,442.8193901449275,197.4,874.2
+164,"Feijão, roxo, cozido",Leguminosas e derivados,76.89338231790063,202.2,155.5
+164,"Pão, de soja",Número do,308.7263233333333,113.0,348.8
+164,Arroz carreteiro,Alimentos preparados,153.772,108.1,166.2
+165,"Bolo, pronto, aipim",Cereais e derivados,323.85166666666663,89.7,290.5
+165,"Empada de frango, pré-cozida, assada",Número do,358.1916666666667,133.5,478.1
+165,"Pipoca, com óleo de soja, sem sal",Número do,448.334261847198,53.0,237.6
+165,"Pão, de queijo, cru",Número do,294.538,237.1,698.3
+165,"Carne, bovina, coxão mole, sem gordura, cru",Número do,169.06596666666667,259.4,438.5
+166,"Refrigerante, tipo laranja",Bebidas (alcoólicas e não alcoólicas),45.62730000000003,675.0,308.0
+166,"Pastel, de queijo, frito",Número do,422.11208003931927,37.4,157.7
+166,"Pitanga, crua",Número do,41.41552999999997,1165.9,482.9
+166,"Palmito, pupunha, em conserva",Número do,29.43196333333332,1135.4,334.2
+166,"Laranja, baía, crua",Número do,45.43811739130433,1651.2,750.3
+167,"Ovo, de galinha, inteiro, cru",Ovos e derivados,143.11173333333335,60.7,86.8
+167,"Chocolate, ao leite, dietético",Número do,556.8243333333334,173.6,966.7
+167,"Lambari, congelado, frito",Número do,326.86839988660813,120.9,395.1
+167,"Pão, de soja",Número do,308.7263233333333,63.4,195.6
+167,Yakisoba,Número do,112.8020412534078,327.8,369.8
+168,"Omelete, de queijo",Ovos e derivados,268.00677218242487,131.2,351.7
+168,"Bolo, pronto, coco",Cereais e derivados,333.4376666666667,42.7,142.3
+168,"Chá, erva-doce, infusão 5%",Bebidas (alcoólicas e não alcoólicas),1.3970599738756386,56540.9,789.9
+168,"Carne, bovina, contra-filé, com gordura, grelhado",Número do,278.05356666666665,22.3,62.0
+168,"Maçã, Fuji, com casca, crua",Número do,55.51520000000005,1455.8,808.2
+169,"Bife à cavalo, com contra filé",Alimentos preparados,291.2295092449586,93.7,272.8
+169,"Biscoito, doce, maisena",Cereais e derivados,442.8193901449275,114.8,508.2
+169,"Queijo, requeijão, cremoso",Número do,256.57814866666666,204.0,523.4
+169,"Banana, maçã, crua",Frutas e derivados,86.80533043478259,213.7,185.5
+169,"Empada de frango, pré-cozida, assada",Número do,358.1916666666667,65.9,236.1
+170,"Tomate, com semente, cru",Número do,15.335156521739158,1910.2,292.9
+170,"Presunto, com capa de gordura",Número do,127.84921266563737,89.4,114.3
+170,"Manjuba, com farinha de trigo, frita",Número do,343.55045872306823,47.5,163.1
+170,"Pão, milho, forma",Número do,292.01349,122.4,357.4
+170,"Lingüiça, porco, crua",Número do,227.2034508333333,383.5,871.3
+171,"Abacate, cru",Frutas e derivados,96.1547086956522,403.7,388.2
+171,"Limão, tahiti, cru",Número do,31.818153430163903,888.6,282.7
+171,"Tomate, extrato",Número do,60.93343365217388,740.0,450.9
+171,"Salada, de legumes, cozida no vapor",Alimentos preparados,35.40810429847241,1643.7,582.0
+171,"Cuscuz, de milho, cozido com sal",Alimentos preparados,113.45948166666666,60.1,68.2
+172,"Cana, caldo de",Bebidas (alcoólicas e não alcoólicas),65.34359826898573,1359.4,888.2
+172,"Carne, bovina, contra-filé, com gordura, grelhado",Número do,278.05356666666665,134.4,373.7
+172,"Pêssego, Aurora, cru",Número do,36.327599024534216,532.8,193.6
+172,"Carne, bovina, coxão duro, sem gordura, cozido",Número do,216.616066666667,135.1,292.7
+172,"Açaí, polpa, congelada",Frutas e derivados,58.04536887282133,66.7,38.7
+173,"Caruru, cru",Número do,34.03162971734997,2853.9,971.2
+173,"Carne, bovina, capa de contra-filé, sem gordura, crua",Carnes e derivados,131.06246666666664,279.7,366.5
+173,"Fruta-pão, crua",Número do,67.04561999999997,86.0,57.6
+173,"Frango, coração, grelhado",Número do,207.27364333333327,223.2,462.7
+173,Bolinho de arroz,Alimentos preparados,273.5143333333333,28.1,76.9
+174,"Queijo, pasteurizado",Leite e derivados,303.07980333333325,35.8,108.4
+174,"Catalonha, refogada",Número do,63.449269148826616,53.0,33.6
+174,"Lingüiça, porco, frita",Número do,279.54358916666666,314.1,878.1
+174,"Nhoque, batata, cozido",Número do,180.7752739934126,10.9,19.7
+174,"Batata, inglesa, cozida","Verduras, hortaliças e derivados",51.588476636270656,1896.0,978.1
+175,"Chocolate, meio amargo",Número do,474.9177699732738,58.6,278.4
+175,"Pêssego, Aurora, cru",Número do,36.327599024534216,1171.3,425.5
+175,"Kiwi, cru",Número do,51.13633043478264,480.8,245.9
+175,"Pamonha, barra para cozimento, pré-cozida",Número do,171.2191116666667,254.8,436.3
+175,"Guandu, cru",Leguminosas e derivados,344.1336512849927,179.8,618.9
+176,"Serralha, crua",Número do,30.397934166666644,2410.7,732.8
+176,"Soja, extrato solúvel, natural, fluido",Número do,39.10485527535076,1943.9,760.2
+176,"Frango, coração, cru",Número do,221.5028333333333,42.5,94.2
+176,"Atum, conserva em óleo",Pescados e frutos do mar,165.91056057890256,141.1,234.1
+176,"Açúcar, cristal",Produtos açucarados,386.845724,75.9,293.7
+177,"Pescada, filé, com farinha de trigo, frito",Número do,283.4252144319614,44.8,127.0
+177,"Biscoito, doce, recheado com chocolate",Cereais e derivados,471.824779710145,64.5,304.2
+177,"Leite, de vaca, desnatado, pó",Leite e derivados,361.608,175.0,632.6
+177,"Presunto, com capa de gordura",Número do,127.84921266563737,345.0,441.1
+177,"Frango, inteiro, com pele, cru",Número do,226.31916666666663,198.0,448.1
+178,"Fermento, biológico, levedura, tablete",Miscelâneas,89.79486703058885,4.6,4.1
+178,"Farinha, de mandioca, torrada",Número do,365.268975,42.8,156.3
+178,"Laranja, baía, suco",Número do,36.64948260869561,3293.2,1206.9
+178,"Quibe, assado",Número do,136.22887614158785,237.8,324.0
+178,"Tomate, com semente, cru",Número do,15.335156521739158,2117.0,324.6
+179,"Farinha, de rosca",Número do,370.5780966666666,37.1,137.5
+179,"Jurubeba, crua",Número do,125.81163499999998,10.8,13.6
+179,"Catalonha, crua",Número do,23.888412257373297,3651.2,872.2
+179,"Cajá, polpa, congelada",Frutas e derivados,26.332269311050556,3010.5,792.7
+179,Mortadela,Número do,268.8199890167316,30.1,80.9
+180,"Feijão, preto, cozido",Leguminosas e derivados,77.02726666666668,532.7,410.3
+180,"Arroz, tipo 2, cozido",Cereais e derivados,130.11964833333332,557.1,724.9
+180,"Manga, Haden, crua",Número do,63.50031833879153,127.6,81.0
+180,"Cereais, milho, flocos, com sal",Cereais e derivados,369.59975,55.4,204.8
+180,"Jurubeba, crua",Número do,125.81163499999998,852.8,1072.9
+181,Cocada branca,Número do,448.84545242331023,56.0,251.2
+181,"Laranja, lima, suco",Número do,39.3360939441324,2427.5,954.9
+181,"Serralha, crua",Número do,30.397934166666644,278.6,84.7
+181,"Abadejo, filé, congelado, assado",Pescados e frutos do mar,111.6155034511884,377.6,421.5
+181,"Acelga, crua","Verduras, hortaliças e derivados",20.942342499999945,1732.2,362.8
+182,"Palmito, pupunha, em conserva",Número do,29.43196333333332,1053.6,310.1
+182,"Frango, peito, sem pele, grelhado",Número do,159.18500719261172,29.6,47.1
+182,"Abobrinha, italiana, refogada","Verduras, hortaliças e derivados",24.42960218765336,2089.7,510.5
+182,"Frango, peito, com pele, assado",Número do,211.68314953072863,411.6,871.2
+182,Salame,Número do,397.8425065349341,10.1,40.1
+183,"Gergelim, semente",Nozes e sementes,583.5467147545495,73.3,427.9
+183,"Frango, peito, com pele, assado",Número do,211.68314953072863,300.7,636.5
+183,Bolinho de arroz,Alimentos preparados,273.5143333333333,49.7,135.9
+183,"Castanha-do-Brasil, crua",Nozes e sementes,642.9630716810693,45.5,292.8
+183,"Leite, de coco",Número do,166.16030161554647,146.1,242.8
+184,"Lambari, fresco, cru",Número do,151.598346503218,435.3,660.0
+184,"Acerola, crua",Frutas e derivados,33.46227000000003,2673.3,894.5
+184,"Cereal matinal, milho",Cereais e derivados,365.354163768116,32.8,119.8
+184,"Manga, Tommy Atkins, crua",Número do,50.69218260869563,287.3,145.6
+184,"Salsa, crua",Número do,33.424111594202884,676.4,226.1
+185,Apresuntado,Carnes e derivados,128.8572558120092,283.0,364.6
+185,"Goiaba, branca, com casca, crua",Número do,51.73774782608695,330.6,171.1
+185,"Maxixe, cru",Número do,13.747236086956516,585.1,80.4
+185,"Polenta, pré-cozida",Número do,102.74116666666669,452.0,464.4
+185,"Bolo, pronto, aipim",Cereais e derivados,323.85166666666663,185.1,599.5
+186,"Bebida isotônica, sabores variados",Bebidas (alcoólicas e não alcoólicas),25.613333333333344,232.9,59.7
+186,"Porco, lombo, cru",Número do,175.6251952501138,394.9,693.6
+186,"Carne, bovina, acém, moído, cru",Carnes e derivados,136.56233333333333,18.2,24.8
+186,"Farinha, de trigo",Número do,360.4729785507247,16.0,57.6
+186,"Cajá, polpa, congelada",Frutas e derivados,26.332269311050556,3920.7,1032.4
+187,"Inhame, cru",Número do,96.69983188405796,560.7,542.2
+187,"Carne, bovina, flanco, sem gordura, cozido",Número do,195.5753666666667,173.6,339.4
+187,"Laranja, baía, suco",Número do,36.64948260869561,682.6,250.2
+187,"Peru, congelado, assado",Número do,163.07139793137708,173.5,283.0
+187,"Abóbora, menina brasileira, crua","Verduras, hortaliças e derivados",13.605673913043486,2978.0,405.2
+188,"Frango, com açafrão",Alimentos preparados,112.78376884122686,504.4,568.9
+188,"Nabo, cru",Número do,18.18662463768122,1551.3,282.1
+188,"Manga, Tommy Atkins, crua",Número do,50.69218260869563,234.7,119.0
+188,"Porco, lombo, assado",Número do,210.2346655796369,166.3,349.6
+188,"Pintado, grelhado",Número do,152.19008833333334,256.5,390.4
+189,"Alho-poró, cru","Verduras, hortaliças e derivados",31.5079193532467,1877.3,591.5
+189,"Nabo, cru",Número do,18.18662463768122,3191.8,580.5
+189,"Porco, pernil, assado",Número do,262.2596066666666,58.3,152.9
+189,"Maionese, tradicional com ovos",Número do,302.1526776878237,17.1,51.7
+189,"Taioba, crua",Número do,34.208918333333315,524.3,179.4
+190,"Bebida láctea, pêssego",Leite e derivados,55.164833333333306,22.7,12.5
+190,"Carne, bovina, coxão duro, sem gordura, cozido",Número do,216.616066666667,266.5,577.3
+190,"Abadejo, filé, congelado, assado",Pescados e frutos do mar,111.6155034511884,12.2,13.6
+190,"Frango, sobrecoxa, com pele, assada",Número do,259.60476916666664,203.7,528.8
+190,"Frango, com açafrão",Alimentos preparados,112.78376884122686,257.0,289.8
+191,"Agrião, cru","Verduras, hortaliças e derivados",16.578801449275325,2381.6,394.8
+191,"Pão, de queijo, cru",Número do,294.538,97.1,286.1
+191,"Feijão, preto, cru",Leguminosas e derivados,323.5657115942029,72.6,235.0
+191,"Queijo, ricota",Número do,139.73177999999996,340.3,475.5
+191,"Beterraba, crua",Número do,48.82850869565215,500.9,244.6
+192,"Biscoito, doce, wafer, recheado de chocolate",Cereais e derivados,502.4568579710144,45.8,230.4
+192,"Coxinha de frango, frita",Número do,283.048,345.3,977.3
+192,"Limão, cravo, suco",Número do,14.103733399311682,3238.6,456.8
+192,"Cuscuz, paulista",Alimentos preparados,142.123,23.1,32.8
+192,"Azeitona, preta, conserva",Outros alimentos industrializados,194.1538470209837,102.4,198.8
+193,"Salsa, crua",Número do,33.424111594202884,2958.5,988.8
+193,"Melão, cru",Número do,29.369391304347808,337.6,99.1
+193,Mortadela,Número do,268.8199890167316,11.6,31.1
+193,"Carne, bovina, paleta, com gordura, crua",Número do,158.7099,137.6,218.4
+193,"Salmão, filé, com pele, fresco,  grelhado",Número do,228.73177513531843,188.2,430.5
+194,"Carne, bovina, fraldinha, com gordura, cozida",Número do,338.4457333333333,18.6,63.0
+194,"Óleo, de soja",Gorduras e óleos,884.0,36.5,322.7
+194,"Couve, manteiga, refogada ",Número do,90.34481542611124,500.4,452.1
+194,"Frango, coxa, com pele, crua",Número do,161.47473333333332,345.1,557.2
+194,"Lasanha, massa fresca, crua",Número do,220.3056666666667,36.8,81.0
+195,"Chuchu, cru",Número do,16.97891884057972,199.3,33.8
+195,"Atum, conserva em óleo",Pescados e frutos do mar,165.91056057890256,120.1,199.3
+195,"Banana, nanica, crua",Frutas e derivados,91.52884782608696,925.5,847.1
+195,"Amendoim, grão, cru",Leguminosas e derivados,544.0526557994334,92.9,505.4
+195,"Coxinha de frango, frita",Número do,283.048,61.6,174.4
+196,"Refrigerante, tipo cola",Bebidas (alcoólicas e não alcoólicas),33.514200000000045,2058.7,689.9
+196,"Queijo, pasteurizado",Leite e derivados,303.07980333333325,18.8,57.1
+196,"Nêspera, crua",Número do,42.539198868195214,319.3,135.8
+196,"Melão, cru",Número do,29.369391304347808,158.2,46.5
+196,"Goiaba, doce em pasta",Número do,268.9598260869565,324.5,872.7
+197,"Frango, peito, com pele, cru",Número do,149.46526666666665,117.2,175.1
+197,"Abacaxi, polpa, congelada",Frutas e derivados,30.591799194335923,2135.4,653.3
+197,"Alface, lisa, crua","Verduras, hortaliças e derivados",13.820901449275343,3454.2,477.4
+197,"Farinha, de rosca",Número do,370.5780966666666,51.0,189.0
+197,"Bebida isotônica, sabores variados",Bebidas (alcoólicas e não alcoólicas),25.613333333333344,207.7,53.2
+198,"Biscoito, salgado, cream cracker",Cereais e derivados,431.73228115942027,20.0,86.2
+198,"Queijo, requeijão, cremoso",Número do,256.57814866666666,83.6,214.6
+198,"Linhaça, semente",Nozes e sementes,495.0961138436508,165.3,818.2
+198,"Fermento, biológico, levedura, tablete",Miscelâneas,89.79486703058885,239.1,214.7
+198,"Manga, Haden, crua",Número do,63.50031833879153,665.0,422.3
+199,"Bolo, mistura para",Cereais e derivados,418.6333333333333,42.7,178.7
+199,"Salsa, crua",Número do,33.424111594202884,1437.2,480.4
+199,"Laranja, da terra, crua",Número do,51.47112863928077,734.8,378.2
+199,"Uva, Rubi, crua",Número do,49.06128999999997,133.5,65.5
+199,"Doce, de leite, cremoso",Número do,306.31013023105874,207.0,634.2
+200,"Caldo de galinha, tablete",Carnes e derivados,251.44566666666665,12.0,30.1
+200,"Pescada, filé, molho escabeche",Número do,141.9583228750229,147.2,208.9
+200,"Corvina grande, assada",Número do,146.52814112536112,87.8,128.6
+200,"Macarrão, instantâneo",Número do,435.8647805333334,1.1,5.0
+200,Sarapatel,Alimentos preparados,122.98185821243132,913.4,1123.3
+201,"Maxixe, cru",Número do,13.747236086956516,2260.6,310.8
+201,"Leite, de coco",Número do,166.16030161554647,699.9,1162.9
+201,"Carne, bovina, acém, moído, cru",Carnes e derivados,136.56233333333333,214.5,293.0
+201,"Frango, inteiro, com pele, cru",Número do,226.31916666666663,5.1,11.5
+201,"Cereais, mingau, milho, infantil",Cereais e derivados,394.4275217391304,4.8,18.9
+202,"Salmão, sem pele, fresco, grelhado",Número do,242.7065694870949,123.0,298.6
+202,"Lingüiça, porco, grelhada",Número do,296.4896091666666,65.7,194.7
+202,"Lentilha, crua",Número do,339.1412402035533,151.3,513.0
+202,"Beterraba, crua",Número do,48.82850869565215,265.4,129.6
+202,"Fécula, de mandioca",Número do,330.85055833333337,279.9,926.1
+203,"Manjericão, cru",Número do,21.14767681159422,2034.0,430.1
+203,"Carne, bovina, seca, cozida",Número do,312.799033691446,199.6,624.4
+203," Mamão, doce em calda, drenado",Número do,195.62747482178608,165.6,324.0
+203,"Canjica, com leite integral",Cereais e derivados,112.45677722046528,285.1,320.6
+203,"Geléia, mocotó, natural",Número do,106.08666666666662,440.9,467.8
+204,"Frango, sobrecoxa, sem pele, assada",Número do,232.88339666666667,475.9,1108.4
+204,"Quibe, frito",Número do,253.83130886964,6.0,15.1
+204,"Abobrinha, italiana, cozida","Verduras, hortaliças e derivados",15.038520000000023,1343.4,202.0
+204,"Caju, polpa, congelada",Frutas e derivados,36.568679999999965,1070.4,391.4
+204,"Carambola, crua",Número do,45.74088879342872,500.7,229.0
+205,"Cenoura, crua",Número do,34.13538840579714,2819.8,962.5
+205,"Manjuba, frita",Número do,349.32523145536584,89.3,312.1
+205,"Azeitona, verde, conserva",Número do,136.93643000000003,36.5,50.0
+205,"Feijão, rajado, cozido",Leguminosas e derivados,84.7018527334929,265.3,224.7
+205,"Cupuaçu, polpa, congelada",Número do,48.79688999999999,101.7,49.6
+206,"Margarina, com óleo interesterificado, com sal (65%de lipídeos)",Gorduras e óleos,594.4516933333332,10.7,63.8
+206,"Soja, extrato solúvel, natural, fluido",Número do,39.10485527535076,3484.1,1362.5
+206,"Açúcar, cristal",Produtos açucarados,386.845724,7.9,30.6
+206,"Carne, bovina, almôndegas, cruas",Carnes e derivados,189.2566666666666,16.0,30.3
+206,"Refrigerante, tipo água tônica",Bebidas (alcoólicas e não alcoólicas),30.7794,893.1,274.9
+207,"Frango, sobrecoxa, com pele, assada",Número do,259.60476916666664,13.7,35.4
+207,Melado,Número do,296.5064912319183,263.8,782.3
+207,"Amêndoa, torrada, salgada",Nozes e sementes,580.7469545560705,79.4,460.9
+207,"Cebolinha, crua",Número do,19.51588550724644,87.6,17.1
+207,"Aveia, flocos, crua",Cereais e derivados,393.82268944927546,192.3,757.3
+208,"Tomate, purê",Número do,27.93687971014494,2447.1,683.6
+208,"Serralha, crua",Número do,30.397934166666644,445.9,135.5
+208,"Coxinha de frango, frita",Número do,283.048,105.8,299.5
+208,"Cação, posta, com farinha de trigo, frita",Número do,208.3327437259753,125.2,260.8
+208,"Couve, manteiga, refogada ",Número do,90.34481542611124,745.5,673.5
+209,"Abobrinha, paulista, crua","Verduras, hortaliças e derivados",30.810702228816336,2088.3,643.4
+209,"Milho, verde, enlatado, drenado",Número do,97.56489420289851,479.2,467.5
+209,"Tomate, salada",Número do,20.54690916666664,2011.6,413.3
+209,"Aipo, cru","Verduras, hortaliças e derivados",19.09145664497062,2400.0,458.2
+209,Feijão tropeiro mineiro,Alimentos preparados,151.56185683095453,46.6,70.6
+210,"Abadejo, filé, congelado,cozido",Pescados e frutos do mar,91.10354839555424,398.4,363.0
+210,"Goiaba, branca, com casca, crua",Número do,51.73774782608695,995.1,514.9
+210,L,Alimentos preparados,116.9334573110342,131.1,153.4
+210,"Catalonha, crua",Número do,23.888412257373297,2297.7,548.9
+210,"Margarina, com óleo interesterificado, sem sal (65% de lipídeos)",Gorduras e óleos,593.1374902381897,192.4,1140.9
+211,"Carne, bovina, almôndegas, fritas",Carnes e derivados,271.813,239.6,651.2
+211,"Jurubeba, crua",Número do,125.81163499999998,144.4,181.7
+211,"Laranja, valência, crua",Número do,46.109628783385006,644.4,297.1
+211,"Coco, cru",Nozes e sementes,406.4873531078099,29.2,118.5
+211,"Biscoito, doce, recheado com chocolate",Cereais e derivados,471.824779710145,172.8,815.5
+212,"Porco, lombo, assado",Número do,210.2346655796369,314.9,662.1
+212,"Leite, de cabra",Leite e derivados,66.41574188654329,445.6,295.9
+212,"Carne, bovina, flanco, sem gordura, cozido",Número do,195.5753666666667,108.8,212.8
+212,"Hambúrguer, bovino, frito",Número do,258.283,334.8,864.6
+212,"Farinha, de mandioca, crua",Número do,360.8696985507246,39.2,141.5
+213,"Bebida isotônica, sabores variados",Bebidas (alcoólicas e não alcoólicas),25.613333333333344,2159.7,553.2
+213,"Pescada, filé, molho escabeche",Número do,141.9583228750229,298.4,423.6
+213,"Ciriguela, crua",Número do,75.59411,695.0,525.4
+213,"Rúcula, crua",Número do,13.133256607294062,4488.5,589.5
+213,"Biscoito, salgado, cream cracker",Cereais e derivados,431.73228115942027,11.4,49.4
+214,"Carne, bovina, seca, crua",Número do,312.7484279036522,30.4,95.1
+214,"Paçoca, amendoim",Número do,486.9270864645243,156.4,761.7
+214,"Mamão, Papaia, cru",Número do,40.156768942296566,2310.0,927.6
+214,"Açaí, polpa, com xarope de guaraná e glucose",Frutas e derivados,110.29759,45.0,49.7
+214,"Castanha-de-caju, torrada, salgada",Nozes e sementes,570.167626501619,43.1,246.0
+215,"Bife à cavalo, com contra filé",Alimentos preparados,291.2295092449586,43.9,127.9
+215,"Croquete, de carne, cru",Número do,245.77192529714108,200.2,492.1
+215,"Carne, bovina, charque, cru",Carnes e derivados,248.861018107454,235.1,585.2
+215,"Carne, bovina, contra-filé, com gordura, grelhado",Número do,278.05356666666665,159.3,442.9
+215,"Refrigerante, tipo cola",Bebidas (alcoólicas e não alcoólicas),33.514200000000045,713.1,239.0
+216,"Carne, bovina, charque, cozido",Carnes e derivados,262.7801422621807,114.3,300.2
+216,"Margarina, com óleo hidrogenado, sem sal (80% de lipídeos)",Gorduras e óleos,722.525625804901,100.9,729.3
+216,"Refrigerante, tipo água tônica",Bebidas (alcoólicas e não alcoólicas),30.7794,468.9,144.3
+216,Creme de Leite,Leite e derivados,221.48354127513312,312.1,691.3
+216,"Acerola, crua",Frutas e derivados,33.46227000000003,707.9,236.9
+217,Tabule,Alimentos preparados,57.45347668848058,402.0,230.9
+217,Quibebe,Alimentos preparados,86.349230299592,133.1,115.0
+217,"Café, pó, torrado",Miscelâneas,418.6186666666666,154.4,646.5
+217,"Porco, costela, assada",Número do,402.1684474508365,10.8,43.4
+217,"Macarrão, trigo, cru, com ovos",Número do,370.5671133333334,204.9,759.1
+218,"Pinha, crua",Número do,88.4735276668668,433.8,383.8
+218,"Pão, trigo, francês",Número do,299.8101504347826,289.7,868.4
+218,"Carambola, crua",Número do,45.74088879342872,27.4,12.5
+218,"Morango, cru",Número do,30.147917391304357,1102.5,332.4
+218,"Jamelão, cru",Número do,41.00970891670385,745.9,305.9
+219,"Biscoito, doce, recheado com morango",Cereais e derivados,471.1747362318841,176.2,830.2
+219,"Carne, bovina, maminha, grelhada",Número do,153.0896758333333,88.0,134.7
+219,"Umbu, cru",Número do,37.016689999999976,683.3,252.9
+219,"Paçoca, amendoim",Número do,486.9270864645243,34.5,168.1
+219,"Carne, bovina, almôndegas, fritas",Carnes e derivados,271.813,171.8,467.1
+220,"Cuxá, molho",Alimentos preparados,80.09161563650767,0.3,0.2
+220,"Rabanete, cru",Número do,13.738126086956488,284.1,39.0
+220,"Pimentão, verde, cru",Número do,21.28588115942029,95.7,20.4
+220,"Banana, ouro, crua",Frutas e derivados,112.36604782608694,994.0,1116.9
+220,"Espinafre, Nova Zelândia, cru",Número do,16.095694202898525,3507.1,564.5
+221,"Maria mole, coco queimado",Número do,306.6318969970185,194.3,595.7
+221,"Arroz, integral, cozido",Cereais e derivados,123.5348925,76.2,94.2
+221,"Chá, mate, infusão 5%",Bebidas (alcoólicas e não alcoólicas),2.730749951124143,36535.5,997.7
+221,"Linhaça, semente",Nozes e sementes,495.0961138436508,52.9,261.8
+221,"Presunto, sem capa de gordura",Número do,93.7432807208697,254.6,238.7
+222,"Pêra, Williams, crua",Número do,53.309047826086925,225.4,120.2
+222,"Salpicão, de frango",Alimentos preparados,147.8645961340268,146.2,216.2
+222,Sarapatel,Alimentos preparados,122.98185821243132,233.9,287.7
+222,"Frango, asa, com pele, crua",Número do,213.18833333333333,337.3,719.1
+222,"Iogurte, sabor pêssego",Leite e derivados,67.84940000000002,13.0,8.8
+223,"Espinafre, Nova Zelândia, cru",Número do,16.095694202898525,2097.2,337.6
+223,"Caldo de galinha, tablete",Carnes e derivados,251.44566666666665,114.7,288.5
+223,"Carne, bovina, picanha, com gordura, grelhada",Número do,288.7670916666666,195.5,564.5
+223,"Cajá-Manga, cru",Frutas e derivados,45.58096877372266,1275.1,581.2
+223,"Banana, da terra, crua",Frutas e derivados,128.02445217391306,70.5,90.3
+224,"Caldo de carne, tablete",Carnes e derivados,240.6233333333333,1.7,4.2
+224,"Biscoito, doce, wafer, recheado de chocolate",Cereais e derivados,502.4568579710144,62.3,313.0
+224,"Figo, cru",Número do,41.44712608695652,150.8,62.5
+224,"Macaúba, crua",Número do,404.2818766666667,145.1,586.8
+224,"Maria mole, coco queimado",Número do,306.6318969970185,142.0,435.5
+225,"Batata, doce, crua","Verduras, hortaliças e derivados",118.24137536231882,278.8,329.6
+225,"Melancia, crua",Número do,32.60662608695646,237.7,77.5
+225,"Doce, de abóbora, cremoso",Número do,198.9360630496343,159.8,317.9
+225,"Feijão, rajado, cru",Leguminosas e derivados,325.84441116273405,165.7,540.0
+225,"Frango, fígado, cru",Número do,106.48456666666668,343.7,366.0
+226,Maniçoba,Alimentos preparados,134.22289340098695,167.0,224.2
+226,"Ovo, de galinha, inteiro, cozido/10minutos",Ovos e derivados,145.70017,158.3,230.6
+226,"Feijão, carioca, cozido",Leguminosas e derivados,76.42408566666668,503.1,384.5
+226,"Açúcar, mascavo",Número do,368.5548225243887,130.1,479.5
+226,"Quiabo, cru",Número do,29.93926215006908,2084.8,624.2
+227,"Palmito, juçara, em conserva",Número do,23.199716434081346,2396.4,556.0
+227,"Abóbora, cabotian, cozida","Verduras, hortaliças e derivados",48.04374250000001,29.1,14.0
+227,"Lasanha, massa fresca, crua",Número do,220.3056666666667,264.4,582.5
+227,Cocada branca,Número do,448.84545242331023,78.8,353.7
+227,"Queijo, prato",Número do,359.88046240505474,64.4,231.9
+228,"Maracujá, polpa, congelada",Número do,38.75969999999999,12.4,4.8
+228,"Carne, bovina, contra-filé, com gordura, grelhado",Número do,278.05356666666665,85.8,238.6
+228,"Queijo, petit suisse, morango",Número do,121.105954,681.7,825.6
+228,"Inhame, cru",Número do,96.69983188405796,211.8,204.8
+228,"Amendoim, grão, cru",Leguminosas e derivados,544.0526557994334,43.2,235.2
+229,"Beterraba, cozida",Número do,32.15432433140276,168.5,54.2
+229,"Berinjela, crua",Número do,19.62775362318839,838.6,164.6
+229,"Corvina de água doce, crua",Número do,101.00903333333332,139.1,140.5
+229,"Biscoito, doce, recheado com morango",Cereais e derivados,471.1747362318841,171.6,808.4
+229,"Carne, bovina, acém, sem gordura, cozido",Carnes e derivados,214.61056666666664,193.1,414.3
+230,"Carne, bovina, seca, crua",Número do,312.7484279036522,158.6,496.1
+230,"Queijo, prato",Número do,359.88046240505474,79.1,284.7
+230,"Carne, bovina, patinho, sem gordura, grelhado",Número do,219.25926666666663,110.5,242.2
+230,"Carne, bovina, paleta, com gordura, crua",Número do,158.7099,369.1,585.9
+230,"Toucinho, cru",Número do,592.5311749999998,42.6,252.1
+231,"Chantilly, spray, com gordura vegetal",Número do,314.9560002666667,64.2,202.4
+231,"Milho, verde, cru",Número do,138.166565,160.8,222.1
+231,"Carne, bovina, patinho, sem gordura, grelhado",Número do,219.25926666666663,140.7,308.5
+231,"Carne, bovina, lagarto, cru",Número do,134.86456666666663,293.4,395.7
+231,"Abóbora, pescoço, crua","Verduras, hortaliças e derivados",24.466267949700352,1840.4,450.3
+232,"Carne, bovina, músculo, sem gordura, cru",Número do,141.581,294.9,417.5
+232,"Carne, bovina, miolo de alcatra, sem gordura, cru",Número do,162.87123333333332,417.0,679.3
+232,"Frango, inteiro, sem pele, cozido",Número do,170.38997583333332,109.3,186.3
+232,"Peru, congelado, assado",Número do,163.07139793137708,186.0,303.3
+232,"Pastel, de queijo, frito",Número do,422.11208003931927,43.1,181.7
+233,"Pinhão, cozido",Nozes e sementes,174.36990200000002,510.1,889.5
+233,"Salmão, filé, com pele, fresco,  grelhado",Número do,228.73177513531843,132.6,303.2
+233,"Tucunaré, filé, congelado, cru",Número do,87.686483549277,448.6,393.3
+233,"Laranja, valência, suco",Número do,36.19635058768591,85.7,31.0
+233,"Carne, bovina, flanco, sem gordura, cozido",Número do,195.5753666666667,59.8,116.9
+234,"Jurubeba, crua",Número do,125.81163499999998,166.3,209.2
+234,"Caqui, chocolate, cru",Número do,71.35001811164616,960.2,685.1
+234,"Fruta-pão, crua",Número do,67.04561999999997,740.8,496.7
+234,"Refrigerante, tipo limão",Bebidas (alcoólicas e não alcoólicas),39.71910000000001,187.3,74.4
+234,"Margarina, com óleo hidrogenado, sem sal (80% de lipídeos)",Gorduras e óleos,722.525625804901,17.9,129.6
+235,"Arroz, integral, cozido",Cereais e derivados,123.5348925,709.7,876.7
+235,"Carne, bovina, acém, sem gordura, cozido",Carnes e derivados,214.61056666666664,185.2,397.6
+235,"Limão, tahiti, cru",Número do,31.818153430163903,1833.0,583.2
+235,"Batata, inglesa, sauté",Número do,67.88793615063032,76.7,52.1
+235,"Pintado, cru",Número do,91.08323333333333,268.4,244.5
+236,"Abobrinha, paulista, crua","Verduras, hortaliças e derivados",30.810702228816336,1058.0,326.0
+236,"Melão, cru",Número do,29.369391304347808,2134.8,627.0
+236,"Quibe, frito",Número do,253.83130886964,219.4,557.0
+236,"Cuscuz, paulista",Alimentos preparados,142.123,101.8,144.6
+236,"Queijo, minas, meia cura",Leite e derivados,320.72181773325985,61.5,197.4
+237,"Abóbora, moranga, refogada","Verduras, hortaliças e derivados",29.003822031756226,283.2,82.1
+237,"Carne, bovina, contra-filé, com gordura, cru",Número do,205.8567,246.4,507.3
+237,"Carne, bovina, contra-filé de costela, cru",Número do,202.4374,227.9,461.3
+237,"Pintado, grelhado",Número do,152.19008833333334,66.5,101.2
+237,"Tucumã, cru",Número do,262.01519507239266,64.1,168.0
+238,"Palmito, juçara, em conserva",Número do,23.199716434081346,264.6,61.4
+238,"Frango, sobrecoxa, com pele, crua",Número do,254.5322,104.5,266.0
+238,"Macaúba, crua",Número do,404.2818766666667,62.2,251.4
+238,"Curau, milho verde",Cereais e derivados,78.43381831365585,278.8,218.6
+238,"Curau, milho verde, mistura para",Cereais e derivados,402.28657743531465,239.8,964.6
+239,"Alho, cru","Verduras, hortaliças e derivados",113.12987826086956,379.0,428.7
+239,"Cação, posta, com farinha de trigo, frita",Número do,208.3327437259753,158.0,329.1
+239,"Farinha, de centeio, integral",Número do,335.7776627993265,67.9,228.1
+239,"Serralha, crua",Número do,30.397934166666644,1931.2,587.1
+239,"Figo, enlatado, em calda",Número do,184.36071739130435,10.9,20.0
+240,"Pitanga, crua",Número do,41.41552999999997,733.2,303.7
+240,"Azeitona, verde, conserva",Número do,136.93643000000003,216.8,296.9
+240,"Abacate, cru",Frutas e derivados,96.1547086956522,249.6,240.0
+240,"Lambari, congelado, frito",Número do,326.86839988660813,277.3,906.4
+240,"Banana, nanica, crua",Frutas e derivados,91.52884782608696,161.7,148.0
+241,"Pinhão, cozido",Nozes e sementes,174.36990200000002,309.7,540.0
+241,"Caju, cru",Frutas e derivados,43.06506852173912,491.9,211.8
+241,"Chocolate, ao leite, com castanha do Pará",Número do,558.8763333333334,17.6,98.5
+241,"Brócolis, cozido",Número do,24.63616311136879,1781.3,438.8
+241,"Pimentão, amarelo, cru",Número do,27.92745942028985,991.1,276.8
+242,"Presunto, sem capa de gordura",Número do,93.7432807208697,677.8,635.4
+242,"Batata, doce, crua","Verduras, hortaliças e derivados",118.24137536231882,49.5,58.5
+242,"Grão-de-bico, cru",Leguminosas e derivados,354.7028765890996,135.3,480.0
+242,"Creme de arroz, pó",Cereais e derivados,386.00119033639794,4.2,16.3
+242,"Frango, coxa, com pele, crua",Número do,161.47473333333332,317.0,511.8
+243,"Romã, crua",Número do,55.73900000000001,601.3,335.2
+243,"Carne, bovina, peito, sem gordura, cozido",Número do,338.4731333333333,37.6,127.3
+243,"Azeitona, preta, conserva",Outros alimentos industrializados,194.1538470209837,265.5,515.5
+243,"Feijão, jalo, cru",Leguminosas e derivados,327.90526666666665,209.0,685.4
+243,"Merluza, filé, cru",Número do,89.13086666666665,182.4,162.6
+244,"Laranja, pêra, crua",Número do,36.77376521739132,1655.7,608.9
+244,"Abóbora, cabotian, crua","Verduras, hortaliças e derivados",38.59929420289856,1168.8,451.1
+244,"Feijão, jalo, cru",Leguminosas e derivados,327.90526666666665,143.2,469.5
+244,"Creme de milho, pó",Cereais e derivados,333.03419267054403,90.7,302.1
+244,"Cajá-Manga, cru",Frutas e derivados,45.58096877372266,145.8,66.5
+245,"Pastel, massa, frita",Número do,569.6724593333333,42.7,243.1
+245,"Feijão, roxo, cozido",Leguminosas e derivados,76.89338231790063,201.0,154.6
+245,"Carne, bovina, maminha, crua",Número do,152.76586666666665,259.5,396.5
+245,"Ovo, de galinha, gema, cozida/10minutos",Ovos e derivados,352.67334000000005,103.3,364.2
+245,Estrogonofe de frango,Alimentos preparados,156.80610301323728,208.3,326.6
+246,Tabule,Alimentos preparados,57.45347668848058,9.0,5.2
+246,"Pêra, Park, crua",Número do,60.58859,751.4,455.2
+246,"Brócolis, cru",Número do,25.495131884057955,1448.9,369.4
+246,"Chicória, crua",Número do,13.837120289855095,334.3,46.3
+246,"Carne, bovina, miolo de alcatra, sem gordura, grelhado",Número do,241.36396666666667,324.0,781.9
+247,"Carne, bovina, maminha, grelhada",Número do,153.0896758333333,655.6,1003.6
+247,"Azeite, de dendê",Gorduras e óleos,884.0,1.1,10.0
+247,"Ovo, de galinha, inteiro, cru",Ovos e derivados,143.11173333333335,99.7,142.7
+247,"Maçã, Argentina, com casca, crua",Número do,62.53181836628912,70.5,44.1
+247,"Leite, de vaca, desnatado, pó",Leite e derivados,361.608,118.8,429.6
+248,"Carne, bovina, fraldinha, com gordura, cozida",Número do,338.4457333333333,52.1,176.3
+248,"Uva, Itália, crua",Número do,52.87310000000007,739.9,391.2
+248,"Carne, bovina, almôndegas, fritas",Carnes e derivados,271.813,182.8,496.8
+248,Maria mole,Número do,301.2358875369997,53.0,159.6
+248," Mamão verde, doce em calda, drenado",Número do,209.3762544589043,176.8,370.1
+249,"Carne, bovina, acém, sem gordura, cru",Carnes e derivados,144.02943333333332,480.9,692.7
+249,Quindim,Número do,411.3487215708494,103.0,423.9
+249,"Carne, bovina, paleta, com gordura, crua",Número do,158.7099,147.8,234.6
+249,"Charuto, de repolho",Alimentos preparados,78.23472922221822,540.5,422.9
+249,"Cacau, cru",Frutas e derivados,74.29148000000004,409.2,304.0
+250,"Frango, caipira, inteiro, sem pele, cozido",Número do,195.76029666666665,281.4,550.8
+250,"Corvina grande, cozida",Número do,100.07812455296516,201.1,201.3
+250,"Carne, bovina, contra-filé, sem gordura, cru",Número do,156.6158333333333,62.2,97.4
+250,"Pão, trigo, forma, integral",Número do,253.1936183333333,317.9,804.9
+250,"Quibe, cru",Número do,109.49066929475464,138.5,151.6
+251,"Pêssego, enlatado, em calda",Número do,63.142434782608696,1450.7,916.0
+251,"Alface, roxa, crua","Verduras, hortaliças e derivados",12.716997363467993,493.1,62.7
+251,"Abóbora, cabotian, crua","Verduras, hortaliças e derivados",38.59929420289856,359.7,138.9
+251,Camarão à baiana,Alimentos preparados,100.78304300403596,88.7,89.4
+251,"Empada, de frango, pré-cozida",Número do,377.4796666666667,50.6,191.0
+252,"Bolo, mistura para",Cereais e derivados,418.6333333333333,284.1,1189.5
+252,"Óleo, de babaçu",Gorduras e óleos,884.0,8.2,72.5
+252,"Margarina, com óleo hidrogenado, sem sal (80% de lipídeos)",Gorduras e óleos,722.525625804901,28.1,202.9
+252,"Quibe, cru",Número do,109.49066929475464,226.3,247.8
+252,"Queijo, parmesão",Leite e derivados,452.9637553333333,26.8,121.3
+253,"Achocolatado, pó",Produtos açucarados,401.02,1.3,5.3
+253,"Doce, de abóbora, cremoso",Número do,198.9360630496343,454.5,904.2
+253,"Corimbatá, cozido",Número do,238.6961048673392,204.9,489.1
+253,"Açúcar, cristal",Produtos açucarados,386.845724,151.5,586.1
+253,"Laranja, pêra, suco",Número do,32.70975362318838,502.1,164.2
+254,"Queijo, prato",Número do,359.88046240505474,28.6,102.8
+254,"Carne, bovina, charque, cozido",Carnes e derivados,262.7801422621807,186.9,491.0
+254,"Laranja, pêra, crua",Número do,36.77376521739132,581.2,213.7
+254,"Curau, milho verde",Cereais e derivados,78.43381831365585,678.3,532.0
+254,Quibebe,Alimentos preparados,86.349230299592,685.0,591.5
+255,"Laranja, baía, suco",Número do,36.64948260869561,1002.6,367.4
+255,"Tucunaré, filé, congelado, cru",Número do,87.686483549277,423.9,371.7
+255,"Graviola, crua",Número do,61.62189837666358,397.9,245.2
+255,Maria mole,Número do,301.2358875369997,35.1,105.8
+255,"Tucumã, cru",Número do,262.01519507239266,126.3,330.9
+256,"Ervilha, enlatada, drenada",Leguminosas e derivados,73.8447043478261,137.4,101.5
+256,"Abóbora, cabotian, cozida","Verduras, hortaliças e derivados",48.04374250000001,1954.8,939.2
+256,"Nêspera, crua",Número do,42.539198868195214,212.4,90.4
+256,"Maracujá, suco concentrado, envasado",Número do,41.96731999999999,737.1,309.3
+256,"Lambari, fresco, cru",Número do,151.598346503218,123.8,187.7
+257,"Carne, bovina, picanha, sem gordura, grelhada",Número do,238.4681333333333,59.3,141.4
+257,"Peru, congelado, assado",Número do,163.07139793137708,435.2,709.7
+257,"Quibe, assado",Número do,136.22887614158785,400.6,545.8
+257,"Queijo, requeijão, cremoso",Número do,256.57814866666666,64.9,166.5
+257,"Chá, erva-doce, infusão 5%",Bebidas (alcoólicas e não alcoólicas),1.3970599738756386,29669.9,414.5
+258,"Bolo, pronto, milho",Cereais e derivados,311.387,195.1,607.5
+258,"Pêssego, enlatado, em calda",Número do,63.142434782608696,710.3,448.5
+258,"Laranja, pêra, suco",Número do,32.70975362318838,282.7,92.5
+258,"Arroz, tipo 2, cozido",Cereais e derivados,130.11964833333332,95.8,124.7
+258,"Pão, de queijo, assado",Número do,363.07791333333336,85.3,309.9
+259,"Carne, bovina, picanha, sem gordura, grelhada",Número do,238.4681333333333,174.0,414.8
+259,"Melancia, crua",Número do,32.60662608695646,1582.8,516.1
+259,"Laranja, lima, crua",Número do,45.70103878062962,705.7,322.5
+259,"Milho, verde, enlatado, drenado",Número do,97.56489420289851,185.5,181.0
+259,"Pastel, de queijo, frito",Número do,422.11208003931927,89.9,379.5
+260,"Mexerica, Murcote, crua",Número do,57.592778474648775,430.2,247.8
+260,"Carambola, crua",Número do,45.74088879342872,316.3,144.7
+260,"Pescada, filé, cru",Número do,107.20556666666666,689.1,738.8
+260,"Feijão, rajado, cru",Leguminosas e derivados,325.84441116273405,89.5,291.7
+260,"Queijo, requeijão, cremoso",Número do,256.57814866666666,178.2,457.1
+261,"Carne, bovina, patinho, sem gordura, grelhado",Número do,219.25926666666663,73.0,160.2
+261,"Frango, caipira, inteiro, com pele, cozido",Número do,242.88932666666665,184.0,446.9
+261,"Caju, polpa, congelada",Frutas e derivados,36.568679999999965,131.5,48.1
+261,"Laranja, pêra, crua",Número do,36.77376521739132,111.7,41.1
+261,"Mexerica, Murcote, crua",Número do,57.592778474648775,1465.1,843.8
+262,"Frango, coxa, com pele, assada",Número do,215.1186475329399,43.5,93.6
+262,"Aveia, flocos, crua",Cereais e derivados,393.82268944927546,110.5,435.0
+262,"Biscoito, doce, wafer, recheado de morango",Cereais e derivados,513.4461826086956,39.9,204.9
+262,"Carne, bovina, patinho, sem gordura, grelhado",Número do,219.25926666666663,155.5,341.0
+262,"Chicória, crua",Número do,13.837120289855095,4614.8,638.6
+263,"Biscoito, doce, recheado com morango",Cereais e derivados,471.1747362318841,45.1,212.3
+263,"Carne, bovina, contra-filé, com gordura, cru",Número do,205.8567,83.7,172.4
+263,"Banana, pacova, crua",Frutas e derivados,77.90952792507412,561.3,437.3
+263,"Caldo de carne, tablete",Carnes e derivados,240.6233333333333,54.1,130.1
+263,"Mamão, Formosa, cru",Número do,45.34074782608691,546.7,247.9
+264,"Carne, bovina, lagarto, cozido",Número do,222.46856666666667,409.1,910.2
+264,"Cuscuz, paulista",Alimentos preparados,142.123,95.5,135.7
+264,"Carne, bovina, contra-filé de costela, cru",Número do,202.4374,67.5,136.6
+264,"Abóbora, pescoço, crua","Verduras, hortaliças e derivados",24.466267949700352,1.7,0.4
+264,"Alho, cru","Verduras, hortaliças e derivados",113.12987826086956,342.2,387.1
+265,"Tomate, extrato",Número do,60.93343365217388,745.0,454.0
+265,"Alho, cru","Verduras, hortaliças e derivados",113.12987826086956,388.9,440.0
+265,"Serralha, crua",Número do,30.397934166666644,1877.4,570.7
+265,"Frango, sobrecoxa, sem pele, crua",Número do,161.79629999999997,171.6,277.7
+265,"Maracujá, polpa, congelada",Número do,38.75969999999999,81.7,31.6
+266,"Pupunha, cozida",Nozes e sementes,218.53388087660076,271.5,593.4
+266,"Aveia, flocos, crua",Cereais e derivados,393.82268944927546,189.2,745.0
+266,"Abacaxi, polpa, congelada",Frutas e derivados,30.591799194335923,185.0,56.6
+266,"Pipoca, com óleo de soja, sem sal",Número do,448.334261847198,54.6,245.0
+266,"Cereais, milho, flocos, com sal",Cereais e derivados,369.59975,16.2,60.0
+267,"Hambúrguer, bovino, grelhado",Número do,209.8316666666667,312.1,654.8
+267,"Pêssego, Aurora, cru",Número do,36.327599024534216,2866.5,1041.3
+267,"Porco, pernil, cru",Número do,186.05575,38.6,71.8
+267,"Alho, cru","Verduras, hortaliças e derivados",113.12987826086956,315.8,357.3
+267,"Caqui, chocolate, cru",Número do,71.35001811164616,36.1,25.8
+268,Shoyu,Miscelâneas,60.92774987538659,908.6,553.6
+268,"Acelga, crua","Verduras, hortaliças e derivados",20.942342499999945,531.9,111.4
+268,"Carne, bovina, picanha, sem gordura, grelhada",Número do,238.4681333333333,47.2,112.6
+268,"Umbu, polpa, congelada",Número do,33.943290000000005,2179.7,739.9
+268,"Ervilha, em vagem",Leguminosas e derivados,88.09358199977854,166.4,146.6
+269,"Mel, de abelha",Número do,309.24266666666665,144.7,447.4
+269,"Quibe, assado",Número do,136.22887614158785,402.7,548.7
+269,"Arroz, tipo 1, cru",Cereais e derivados,357.789273115942,153.7,550.1
+269,"Berinjela, cozida",Número do,18.845285556813074,1100.8,207.4
+269,"Carne, bovina, capa de contra-filé, com gordura, grelhada",Carnes e derivados,311.7026666666667,34.8,108.4
+270,"Mexerica, Rio, crua",Número do,36.871350000000064,610.9,225.3
+270,"Quiabo, cru",Número do,29.93926215006908,302.7,90.6
+270,"Cereais, milho, flocos, sem sal",Cereais e derivados,363.3383166666666,79.3,288.1
+270,"Arroz, tipo 1, cozido",Cereais e derivados,128.25848566666664,1027.7,1318.2
+270,"Azeitona, verde, conserva",Número do,136.93643000000003,39.3,53.8
+271,"Macarrão, trigo, cru, com ovos",Número do,370.5671133333334,30.0,111.2
+271,"Morango, cru",Número do,30.147917391304357,918.2,276.8
+271,"Cereal matinal, milho",Cereais e derivados,365.354163768116,384.2,1403.7
+271,"Manjuba, com farinha de trigo, frita",Número do,343.55045872306823,123.2,423.3
+271,"Porco, lombo, cru",Número do,175.6251952501138,13.1,22.9
+272,"Espinafre, Nova Zelândia, cru",Número do,16.095694202898525,907.3,146.0
+272,Sarapatel,Alimentos preparados,122.98185821243132,226.6,278.7
+272,"Castanha-do-Brasil, crua",Nozes e sementes,642.9630716810693,0.7,4.6
+272,"Manga, polpa, congelada",Número do,48.30588,1805.3,872.1
+272,"Carne, bovina, almôndegas, fritas",Carnes e derivados,271.813,133.0,361.6
+273,Acarajé,Alimentos preparados,289.21166666666664,237.0,685.4
+273,"Beterraba, cozida",Número do,32.15432433140276,370.4,119.1
+273,"Frango, com açafrão",Alimentos preparados,112.78376884122686,845.7,953.8
+273,"Lingüiça, porco, grelhada",Número do,296.4896091666666,77.4,229.6
+273,"Tucumã, cru",Número do,262.01519507239266,74.4,195.1
+274,Barreado,Alimentos preparados,164.9752340474129,18.3,30.2
+274,"Banana, ouro, crua",Frutas e derivados,112.36604782608694,46.1,51.8
+274,"Peru, congelado, assado",Número do,163.07139793137708,31.7,51.7
+274,"Milho, verde, enlatado, drenado",Número do,97.56489420289851,1442.4,1407.3
+274,"Maracujá, suco concentrado, envasado",Número do,41.96731999999999,979.1,410.9
+275,"Tamarindo, cru",Número do,275.69564269441366,19.0,52.3
+275,"Caju, suco concentrado, envasado",Número do,45.10862666666668,2792.5,1259.7
+275,"Almeirão, cru","Verduras, hortaliças e derivados",18.03442898550724,2117.5,381.9
+275,"Cereais, milho, flocos, com sal",Cereais e derivados,369.59975,8.0,29.5
+275,"Pimentão, vermelho, cru",Número do,23.28136376811601,131.4,30.6
+276,"Chuchu, cozido",Número do,18.53979053137702,1907.2,353.6
+276,"Carne, bovina, flanco, sem gordura, cozido",Número do,195.5753666666667,169.4,331.2
+276,"Uva, suco concentrado, envasado",Número do,57.65536,258.4,149.0
+276,"Caqui, chocolate, cru",Número do,71.35001811164616,690.9,492.9
+276,"Farinha, de centeio, integral",Número do,335.7776627993265,213.0,715.2
+277,"Biscoito, doce, wafer, recheado de chocolate",Cereais e derivados,502.4568579710144,265.2,1332.4
+277,"Ameixa, calda, enlatada ",Frutas e derivados,182.84662000000003,5.8,10.6
+277,"Atum, fresco, cru",Pescados e frutos do mar,117.50099999999998,10.9,12.8
+277,"Ovo, de galinha, inteiro, cru",Ovos e derivados,143.11173333333335,342.6,490.4
+277,"Salmão, sem pele, fresco, cru",Número do,169.78157991055645,70.0,118.8
+278,"Cereais, mistura para vitamina, trigo, cevada e aveia",Cereais e derivados,381.1333333333333,172.0,655.6
+278,"Hambúrguer, bovino, frito",Número do,258.283,117.3,302.9
+278,"Mostarda, folha, crua",Número do,18.107389052172486,715.2,129.5
+278,"Carne, bovina, capa de contra-filé, com gordura, grelhada",Carnes e derivados,311.7026666666667,226.3,705.3
+278,"Ciriguela, crua",Número do,75.59411,15.5,11.7
+279,"Quibe, assado",Número do,136.22887614158785,293.2,399.4
+279,"Castanha-de-caju, torrada, salgada",Nozes e sementes,570.167626501619,74.8,426.3
+279,"Ovo, de galinha, inteiro, cru",Ovos e derivados,143.11173333333335,153.0,218.9
+279,"Carne, bovina, costela, assada",Número do,373.03886666666665,84.8,316.4
+279,"Biscoito, doce, recheado com morango",Cereais e derivados,471.1747362318841,128.0,603.0
+280,"Cereais, mingau, milho, infantil",Cereais e derivados,394.4275217391304,262.6,1035.7
+280,"Alface, lisa, crua","Verduras, hortaliças e derivados",13.820901449275343,93.1,12.9
+280,"Bacalhau, salgado, refogado",Número do,139.66070105353995,186.4,260.3
+280,"Pêra, Williams, crua",Número do,53.309047826086925,288.9,154.0
+280,"Pastel, de queijo, cru",Número do,308.4744338873742,35.7,110.1
+281,"Macarrão, trigo, cru",Número do,371.1226130434783,51.9,192.6
+281,"Cenoura, crua",Número do,34.13538840579714,643.8,219.8
+281,"Tomate, salada",Número do,20.54690916666664,5793.6,1190.4
+281,"Corvina do mar, crua",Número do,94.0,201.8,189.6
+281,"Iogurte, natural, desnatado",Leite e derivados,41.49271128155834,435.3,180.6
+282,"Carne, bovina, capa de contra-filé, com gordura, crua",Carnes e derivados,216.9089666666667,113.1,245.2
+282,"Abobrinha, paulista, crua","Verduras, hortaliças e derivados",30.810702228816336,1291.4,397.9
+282,"Tomate, com semente, cru",Número do,15.335156521739158,2400.1,368.1
+282,"Lambari, congelado, frito",Número do,326.86839988660813,153.1,500.5
+282,"Ovo, de galinha, clara, cozida/10minutos",Ovos e derivados,59.43569666666667,959.5,570.3
+283,"Refrigerante, tipo cola",Bebidas (alcoólicas e não alcoólicas),33.514200000000045,222.0,74.4
+283,"Brócolis, cozido",Número do,24.63616311136879,5250.5,1293.5
+283,"Cebolinha, crua",Número do,19.51588550724644,627.9,122.5
+283,"Mostarda, folha, crua",Número do,18.107389052172486,2389.1,432.6
+283,"Corvina do mar, crua",Número do,94.0,365.9,343.9
+284,"Frango, coxa, sem pele, crua",Número do,119.9474666666666,258.1,309.6
+284,"Salada, de legumes, cozida no vapor",Alimentos preparados,35.40810429847241,556.6,197.1
+284,"Mexerica, Rio, crua",Número do,36.871350000000064,1292.1,476.4
+284,"Bebida láctea, pêssego",Leite e derivados,55.164833333333306,1249.2,689.1
+284,"Amendoim, torrado, salgado",Leguminosas e derivados,605.7810929170192,4.9,29.7
+285,"Feijão, rosinha, cozido",Leguminosas e derivados,67.86622877142827,209.8,142.4
+285,"Carne, bovina, paleta, sem gordura, crua",Número do,140.9415,72.8,102.7
+285,"Açaí, polpa, com xarope de guaraná e glucose",Frutas e derivados,110.29759,102.9,113.5
+285,"Inhame, cru",Número do,96.69983188405796,656.1,634.5
+285,"Ovo, de galinha, inteiro, cozido/10minutos",Ovos e derivados,145.70017,949.9,1383.9
+286,"Limão, cravo, suco",Número do,14.103733399311682,2108.4,297.4
+286,"Queijo, minas, frescal",Leite e derivados,264.273128,54.9,145.0
+286,"Laranja, baía, suco",Número do,36.64948260869561,1834.7,672.4
+286,"Carne, bovina, miolo de alcatra, sem gordura, grelhado",Número do,241.36396666666667,90.1,217.6
+286,"Queijo, minas, meia cura",Leite e derivados,320.72181773325985,71.0,227.7
+287,"Manteiga, sem sal",Gorduras e óleos,757.5404607259967,25.8,195.6
+287,"Milho, amido, cru",Número do,361.36682387826096,62.9,227.4
+287,"Leite, de vaca, desnatado, pó",Leite e derivados,361.608,10.7,38.7
+287,"Banana, ouro, crua",Frutas e derivados,112.36604782608694,540.3,607.2
+287,"Banana, doce em barra",Frutas e derivados,280.10519255063934,303.9,851.1
+288,"Mamão, Formosa, cru",Número do,45.34074782608691,749.2,339.7
+288,"Fermento em pó, químico",Miscelâneas,89.72206665112176,270.2,242.5
+288,"Brócolis, cru",Número do,25.495131884057955,5251.8,1338.9
+288,"Mexerica, Murcote, crua",Número do,57.592778474648775,42.8,24.6
+288,"Carne, bovina, picanha, sem gordura, crua",Número do,133.52236666666667,91.6,122.3
+289,"Frango, sobrecoxa, com pele, crua",Número do,254.5322,192.1,488.9
+289,"Frango, asa, com pele, crua",Número do,213.18833333333333,23.1,49.2
+289,"Carne, bovina, acém, sem gordura, cozido",Carnes e derivados,214.61056666666664,157.8,338.6
+289,"Manga, Palmer, crua",Número do,72.48673809168733,706.4,512.0
+289,"Mexerica, Rio, crua",Número do,36.871350000000064,1673.9,617.2
+290,"Farinha, de mandioca, crua",Número do,360.8696985507246,40.6,146.4
+290,"Frango, sobrecoxa, com pele, crua",Número do,254.5322,192.1,489.0
+290,"Melancia, crua",Número do,32.60662608695646,732.1,238.7
+290,"Hambúrguer, bovino, cru",Número do,214.836,261.6,562.0
+290,"Carne, bovina, seca, crua",Número do,312.7484279036522,124.4,389.0
+291,"Banana, nanica, crua",Frutas e derivados,91.52884782608696,134.6,123.2
+291,"Cará, cozido",Número do,77.58491333333336,343.7,266.7
+291,"Queijo, petit suisse, morango",Número do,121.105954,339.9,411.6
+291,"Berinjela, cozida",Número do,18.845285556813074,2126.8,400.8
+291,"Caruru, cru",Número do,34.03162971734997,2073.6,705.7
+292,"Carne, bovina, peito, sem gordura, cozido",Número do,338.4731333333333,365.6,1237.5
+292,"Morango, cru",Número do,30.147917391304357,352.0,106.1
+292,"Lasanha, massa fresca, cozida",Número do,163.7636666666667,89.1,146.0
+292,"Carne, bovina, costela, assada",Número do,373.03886666666665,28.6,106.8
+292,"Pêra, Williams, crua",Número do,53.309047826086925,477.6,254.6
+293,"Leite, de coco",Número do,166.16030161554647,230.0,382.2
+293,"Alho-poró, cru","Verduras, hortaliças e derivados",31.5079193532467,710.4,223.8
+293,"Hambúrguer, bovino, frito",Número do,258.283,53.8,139.1
+293,"Rabanete, cru",Número do,13.738126086956488,2216.2,304.5
+293,"Porco, orelha, salgada, crua",Número do,258.49175833333334,302.7,782.5
+294,"Camarão, Rio Grande, grande, cozido",Número do,90.01368009630838,91.6,82.4
+294,"Leite, condensado",Leite e derivados,312.5726,80.2,250.7
+294,"Frango, sobrecoxa, sem pele, crua",Número do,161.79629999999997,643.2,1040.7
+294,"Feijão, jalo, cru",Leguminosas e derivados,327.90526666666665,167.9,550.5
+294,Vatapá,Número do,254.89328572415508,76.8,195.7
+295,"Carne, bovina, contra-filé de costela, grelhado",Número do,274.91426666666666,163.1,448.3
+295,"Empada, de frango, pré-cozida",Número do,377.4796666666667,102.4,386.4
+295,Apresuntado,Carnes e derivados,128.8572558120092,440.9,568.2
+295,"Farinha, de mesocarpo de babaçu, crua",Nozes e sementes,328.7714002448336,96.8,318.4
+295,"Lentilha, cozida",Leguminosas e derivados,92.63876625229916,323.6,299.8
+296,"Lingüiça, frango, frita",Número do,245.46100666666663,252.1,618.8
+296,"Frango, coxa, com pele, assada",Número do,215.1186475329399,249.6,537.0
+296,"Carne, bovina, picanha, com gordura, grelhada",Número do,288.7670916666666,7.9,22.8
+296,"Porco, bisteca, frita",Número do,311.1690453348557,153.3,476.9
+296,"Cereais, milho, flocos, com sal",Cereais e derivados,369.59975,42.1,155.6
+297,"Catalonha, crua",Número do,23.888412257373297,872.6,208.4
+297,"Carne, bovina, charque, cru",Carnes e derivados,248.861018107454,63.7,158.5
+297,"Frango, filé, à milanesa",Número do,220.87278,131.2,289.7
+297,"Arroz, integral, cozido",Cereais e derivados,123.5348925,241.7,298.5
+297,"Lingüiça, frango, crua",Número do,218.10881416666663,538.6,1174.8
+298,"Cenoura, cozida",Número do,29.86177771015958,29.8,8.9
+298,"Bolo, pronto, coco",Cereais e derivados,333.4376666666667,172.7,575.7
+298,"Sardinha, assada",Número do,164.3507883333333,365.6,600.9
+298,"Carne, bovina, acém, moído, cru",Carnes e derivados,136.56233333333333,326.4,445.7
+298,"Carne, bovina, miolo de alcatra, sem gordura, cru",Número do,162.87123333333332,233.2,379.8
+299,"Camarão, Sete Barbas, sem cabeça, com casca, frito",Número do,231.24615385087333,5.2,12.0
+299,"Carne, bovina, cupim, assado",Número do,330.1002908333333,235.6,777.6
+299,"Açúcar, cristal",Produtos açucarados,386.845724,139.3,539.0
+299,"Arroz, integral, cru",Cereais e derivados,359.6780020326088,4.8,17.4
+299,"Almeirão, cru","Verduras, hortaliças e derivados",18.03442898550724,2589.9,467.1
+300,"Berinjela, cozida",Número do,18.845285556813074,1437.5,270.9
+300,"Iogurte, sabor morango",Leite e derivados,69.56560000000003,48.8,33.9
+300,"Sardinha, assada",Número do,164.3507883333333,494.4,812.6
+300,"Ervilha, em vagem",Leguminosas e derivados,88.09358199977854,87.0,76.6
+300,"Óleo, de milho",Gorduras e óleos,884.0,65.8,581.9
+301,"Pastel, massa, frita",Número do,569.6724593333333,108.0,615.2
+301,"Espinafre, Nova Zelândia, refogado",Número do,67.25365175066395,139.4,93.7
+301,"Porco, costela, assada",Número do,402.1684474508365,46.2,185.6
+301,"Mostarda, folha, crua",Número do,18.107389052172486,1407.5,254.9
+301,"Frango, inteiro, com pele, cru",Número do,226.31916666666663,147.8,334.6
+302,Vaca atolada,Número do,144.89697968479,28.1,40.7
+302,"Toucinho, cru",Número do,592.5311749999998,16.9,100.4
+302,"Polvilho, doce",Número do,351.2267333333333,90.2,316.7
+302,"Achocolatado, pó",Produtos açucarados,401.02,233.4,936.0
+302,Quindim,Número do,411.3487215708494,35.0,144.1
+303,"Carne, bovina, cupim, assado",Número do,330.1002908333333,180.0,594.3
+303,"Biscoito, doce, wafer, recheado de morango",Cereais e derivados,513.4461826086956,37.1,190.4
+303,"Tangerina, Poncã, suco",Número do,36.10879999999999,80.5,29.1
+303,"Pastel, de queijo, cru",Número do,308.4744338873742,90.7,279.8
+303,"Frango, sobrecoxa, sem pele, assada",Número do,232.88339666666667,356.6,830.5
+304,"Fermento em pó, químico",Miscelâneas,89.72206665112176,491.1,440.6
+304,"Frango, coração, cru",Número do,221.5028333333333,261.8,579.8
+304,"Queijo, ricota",Número do,139.73177999999996,273.2,381.8
+304,"Maria mole, coco queimado",Número do,306.6318969970185,125.6,385.1
+304,"Banana, figo, crua",Frutas e derivados,105.08265000000002,270.9,284.7
+305,"Carne, bovina, fígado, grelhado",Número do,225.0264,246.3,554.3
+305,"Frango, peito, sem pele, grelhado",Número do,159.18500719261172,359.7,572.6
+305,"Farinha, de milho, amarela",Número do,350.58693322738014,118.8,416.6
+305,"Pão, trigo, sovado",Número do,310.96494,7.2,22.5
+305,"Óleo, de milho",Gorduras e óleos,884.0,43.0,379.9
+306,"Tangerina, Poncã, suco",Número do,36.10879999999999,3080.5,1112.3
+306,"Hambúrguer, bovino, frito",Número do,258.283,155.6,401.9
+306,"Frango, inteiro, sem pele, assado",Número do,187.3377966666667,46.2,86.5
+306,"Hambúrguer, bovino, grelhado",Número do,209.8316666666667,5.5,11.4
+306,"Maxixe, cru",Número do,13.747236086956516,2625.3,360.9
+307,"Atum, conserva em óleo",Pescados e frutos do mar,165.91056057890256,0.3,0.5
+307,"Carne, bovina, maminha, crua",Número do,152.76586666666665,212.7,324.9
+307,"Tapioca, com manteiga",Número do,347.8265562578241,81.1,282.1
+307,Tempero a base de sal,Miscelâneas,21.33,357.9,76.3
+307,"Hambúrguer, bovino, grelhado",Número do,209.8316666666667,618.2,1297.1
+308,"Porco, costela, assada",Número do,402.1684474508365,60.7,244.1
+308,"Tucupi, com pimenta-de-cheiro",Número do,27.1837984027266,1325.5,360.3
+308,"Farinha, de mandioca, crua",Número do,360.8696985507246,54.2,195.6
+308,"Feijão, preto, cozido",Leguminosas e derivados,77.02726666666668,306.6,236.2
+308,"Fermento, biológico, levedura, tablete",Miscelâneas,89.79486703058885,635.7,570.8
+309,"Batata, baroa, crua","Verduras, hortaliças e derivados",100.98492318840582,367.5,371.1
+309,"Chuchu, cozido",Número do,18.53979053137702,3506.1,650.0
+309,"Torrada, pão francês",Número do,377.422283,58.8,222.0
+309,Arroz carreteiro,Alimentos preparados,153.772,134.9,207.5
+309,"Kiwi, cru",Número do,51.13633043478264,749.8,383.4
+310,"Porco, pernil, cru",Número do,186.05575,233.2,433.9
+310,"Presunto, sem capa de gordura",Número do,93.7432807208697,631.2,591.8
+310,"Frango, inteiro, sem pele, cru",Número do,129.09640000000002,311.1,401.6
+310,"Grão-de-bico, cru",Leguminosas e derivados,354.7028765890996,25.4,90.0
+310,"Farinha, láctea, de cereais",Número do,414.8505173913043,40.4,167.8
+311,"Cenoura, cozida",Número do,29.86177771015958,784.9,234.4
+311,"Quibe, frito",Número do,253.83130886964,255.7,649.0
+311,"Laranja, baía, crua",Número do,45.43811739130433,938.7,426.5
+311,"Chocolate, ao leite, com castanha do Pará",Número do,558.8763333333334,7.4,41.1
+311,"Frango, inteiro, sem pele, cru",Número do,129.09640000000002,255.6,330.0
+312,"Tomate, com semente, cru",Número do,15.335156521739158,69.5,10.7
+312,"Pescada, branca, crua",Número do,110.8763,368.8,408.9
+312,"Porco, lombo, cru",Número do,175.6251952501138,172.8,303.5
+312,"Seleta de legumes, enlatada",Número do,56.53377246376815,501.6,283.6
+312,"Cajá, polpa, congelada",Frutas e derivados,26.332269311050556,3563.6,938.4
+313,"Salada, de legumes, cozida no vapor",Alimentos preparados,35.40810429847241,669.9,237.2
+313,Virado à paulista,Número do,306.94678645131984,36.0,110.5
+313,"Carne, bovina, coxão duro, sem gordura, cru",Número do,147.96633333333335,55.6,82.2
+313,"Carne, bovina, filé mingnon, sem gordura, cru",Número do,142.86426666666665,719.9,1028.5
+313,"Pão, de queijo, cru",Número do,294.538,121.1,356.6
+314,"Frango, sobrecoxa, sem pele, assada",Número do,232.88339666666667,232.4,541.2
+314,"Ameixa, calda, enlatada ",Frutas e derivados,182.84662000000003,42.1,76.9
+314,"Porco, bisteca, frita",Número do,311.1690453348557,245.4,763.7
+314,"Alface, lisa, crua","Verduras, hortaliças e derivados",13.820901449275343,165.6,22.9
+314,"Serralha, crua",Número do,30.397934166666644,1343.3,408.3
+315,"Porco, bisteca, frita",Número do,311.1690453348557,189.5,589.6
+315,"Croquete, de carne, cru",Número do,245.77192529714108,111.7,274.6
+315,"Cereal matinal, milho",Cereais e derivados,365.354163768116,79.9,292.0
+315,"Pupunha, cozida",Nozes e sementes,218.53388087660076,72.3,157.9
+315,"Coentro, folhas desidratadas",Número do,309.0707468044758,193.1,596.9
+316,"Frango, caipira, inteiro, sem pele, cozido",Número do,195.76029666666665,406.0,794.7
+316,"Carne, bovina, flanco, sem gordura, cozido",Número do,195.5753666666667,92.1,180.1
+316,"Batata, baroa, crua","Verduras, hortaliças e derivados",100.98492318840582,138.3,139.7
+316,"Goiaba, doce, cascão",Número do,285.5877924390037,154.2,440.3
+316,"Amendoim, torrado, salgado",Leguminosas e derivados,605.7810929170192,16.4,99.2
+317,"Carne, bovina, contra-filé, à milanesa",Carnes e derivados,351.5926591989994,90.3,317.6
+317,Sarapatel,Alimentos preparados,122.98185821243132,0.6,0.7
+317,"Abacaxi, polpa, congelada",Frutas e derivados,30.591799194335923,274.8,84.1
+317,"Berinjela, cozida",Número do,18.845285556813074,4820.6,908.4
+317,"Carne, bovina, acém, moído, cozido",Carnes e derivados,212.4204,223.7,475.2
+318,"Leite, de vaca, integral, pó",Leite e derivados,496.6502999999999,58.7,291.5
+318,"Melancia, crua",Número do,32.60662608695646,274.3,89.4
+318,"Tomate, extrato",Número do,60.93343365217388,355.9,216.8
+318,"Margarina, com óleo hidrogenado, com sal (65% de lipídeos)",Gorduras e óleos,596.1195169563294,112.8,672.5
+318,"Almeirão, cru","Verduras, hortaliças e derivados",18.03442898550724,1761.7,317.7
+319,"Azeitona, preta, conserva",Outros alimentos industrializados,194.1538470209837,55.6,107.9
+319,"Acelga, crua","Verduras, hortaliças e derivados",20.942342499999945,727.1,152.3
+319,"Camarão, Rio Grande, grande, cozido",Número do,90.01368009630838,628.6,565.8
+319,"Frango, peito, sem pele, grelhado",Número do,159.18500719261172,419.0,667.0
+319,"Lingüiça, frango, frita",Número do,245.46100666666663,90.4,222.0
+320,"Refrigerante, tipo guaraná",Bebidas (alcoólicas e não alcoólicas),38.7,1615.4,625.1
+320,"Sardinha, conserva em óleo",Número do,284.9810048712492,43.4,123.7
+320,Tacacá,Número do,46.88917715120316,96.2,45.1
+320,"Uva, suco concentrado, envasado",Número do,57.65536,1396.2,805.0
+320,"Cenoura, crua",Número do,34.13538840579714,73.5,25.1
+321,"Farinha, de centeio, integral",Número do,335.7776627993265,122.3,410.6
+321,"Figo, enlatado, em calda",Número do,184.36071739130435,274.8,506.7
+321,"Curau, milho verde, mistura para",Cereais e derivados,402.28657743531465,45.8,184.4
+321,"Frango, sobrecoxa, sem pele, crua",Número do,161.79629999999997,59.1,95.6
+321,"Abacaxi, cru",Frutas e derivados,48.32221304347824,976.1,471.7
+322,"Cuscuz, paulista",Alimentos preparados,142.123,151.6,215.5
+322,"Frango, asa, com pele, crua",Número do,213.18833333333333,103.2,220.1
+322,"Pastel, de queijo, frito",Número do,422.11208003931927,210.6,889.1
+322,"Carne, bovina, coxão duro, sem gordura, cru",Número do,147.96633333333335,279.6,413.7
+322,"Abadejo, filé, congelado,cozido",Pescados e frutos do mar,91.10354839555424,33.6,30.7
+323,"Biscoito, doce, recheado com morango",Cereais e derivados,471.1747362318841,33.5,157.8
+323,"Tangerina, Poncã, crua",Número do,37.83059999999995,543.6,205.6
+323,"Merluza, filé, assado",Número do,121.91021833333332,416.8,508.1
+323,"Pão, de queijo, assado",Número do,363.07791333333336,108.9,395.3
+323,"Tomate, molho industrializado",Número do,38.446549460490566,569.8,219.1
+324,"Mandioca, frita",Número do,300.0552433891495,268.6,805.9
+324,"Omelete, de queijo",Ovos e derivados,268.00677218242487,17.9,47.9
+324,"Salpicão, de frango",Alimentos preparados,147.8645961340268,39.2,58.0
+324,"Empada de frango, pré-cozida, assada",Número do,358.1916666666667,300.7,1077.2
+324,"Pescada, branca, crua",Número do,110.8763,71.2,78.9
+325,"Porquinho, cru",Número do,93.02456666666666,237.8,221.2
+325,"Feijão, broto, cru",Número do,38.723236375411325,793.8,307.4
+325,"Carne, bovina, capa de contra-filé, com gordura, grelhada",Carnes e derivados,311.7026666666667,122.8,382.9
+325,"Cajá, polpa, congelada",Frutas e derivados,26.332269311050556,84.9,22.4
+325,"Doce, de leite, cremoso",Número do,306.31013023105874,168.2,515.1
+326,"Carne, bovina, bucho, cru",Carnes e derivados,137.30316666666667,502.1,689.4
+326,"Salmão, sem pele, fresco, grelhado",Número do,242.7065694870949,16.0,38.9
+326,Estrogonofe de carne,Alimentos preparados,173.1413643180132,260.2,450.6
+326,"Cupuaçu, polpa, congelada",Número do,48.79688999999999,236.7,115.5
+326,"Mandioca, cozida",Número do,125.35825000000004,89.8,112.6
+327,"Hambúrguer, bovino, grelhado",Número do,209.8316666666667,203.2,426.3
+327,"Macarrão, molho bolognesa",Alimentos preparados,119.53177144556008,308.2,368.4
+327,"Tremoço, em conserva",Número do,120.64258534487092,42.3,51.0
+327,"Ovo, de codorna, inteiro, cru",Ovos e derivados,176.89389999999997,373.7,661.1
+327,"Biscoito, doce, wafer, recheado de chocolate",Cereais e derivados,502.4568579710144,74.6,375.1
+328,"Bolo, pronto, coco",Cereais e derivados,333.4376666666667,9.9,33.0
+328,"Pamonha, barra para cozimento, pré-cozida",Número do,171.2191116666667,289.5,495.7
+328,"Pastel, de carne, frito",Número do,388.3746516249676,217.6,845.3
+328,Dobradinha,Alimentos preparados,124.50020083333332,207.0,257.8
+328,"Milho, verde, enlatado, drenado",Número do,97.56489420289851,180.7,176.3
+329,"Carne, bovina, cupim, assado",Número do,330.1002908333333,293.8,969.7
+329,"Alface, roxa, crua","Verduras, hortaliças e derivados",12.716997363467993,1153.4,146.7
+329,"Nhoque, batata, cozido",Número do,180.7752739934126,4.8,8.7
+329,"Frango, inteiro, com pele, cru",Número do,226.31916666666663,225.3,509.9
+329,"Corvina grande, cozida",Número do,100.07812455296516,139.8,139.9
+330,"Cereais, milho, flocos, com sal",Cereais e derivados,369.59975,88.0,325.3
+330,"Salsa, crua",Número do,33.424111594202884,1170.3,391.1
+330,"Carne, bovina, picanha, sem gordura, crua",Número do,133.52236666666667,667.2,890.9
+330,"Macarrão, trigo, cru, com ovos",Número do,370.5671133333334,14.8,54.8
+330,"Pintado, grelhado",Número do,152.19008833333334,74.9,113.9
+331,"Laranja, baía, suco",Número do,36.64948260869561,870.2,318.9
+331,Feijão tropeiro mineiro,Alimentos preparados,151.56185683095453,223.8,339.2
+331,"Porco, bisteca, grelhada",Número do,280.0840349027713,206.3,577.9
+331,"Cereal matinal, milho, açúcar",Cereais e derivados,376.5552536231884,12.5,46.9
+331,"Amêndoa, torrada, salgada",Nozes e sementes,580.7469545560705,62.9,365.1
+332,"Sardinha, frita",Número do,257.0407,23.9,61.3
+332,"Mingau tradicional, pó",Número do,373.4214666666667,167.0,623.6
+332,"Mandioca, crua",Número do,151.4169565217391,420.7,637.0
+332,"Frango, coxa, sem pele, crua",Número do,119.9474666666666,97.0,116.4
+332,"Maxixe, cru",Número do,13.747236086956516,237.5,32.6
+333,"Sardinha, inteira, crua",Número do,113.90036666666666,125.0,142.3
+333,"Caldo de galinha, tablete",Carnes e derivados,251.44566666666665,134.7,338.6
+333,"Brócolis, cru",Número do,25.495131884057955,1062.8,271.0
+333,Rapadura,Número do,351.9581221015453,109.5,385.4
+333,"Porco, lombo, assado",Número do,210.2346655796369,251.0,527.7
+334,"Atemóia, crua",Frutas e derivados,96.97158744792144,476.8,462.3
+334,"Refrigerante, tipo limão",Bebidas (alcoólicas e não alcoólicas),39.71910000000001,350.9,139.4
+334,"Queijo, pasteurizado",Leite e derivados,303.07980333333325,155.3,470.8
+334,"Manjericão, cru",Número do,21.14767681159422,657.1,139.0
+334,"Abobrinha, italiana, cozida","Verduras, hortaliças e derivados",15.038520000000023,2018.3,303.5
+335,"Mandioca, crua",Número do,151.4169565217391,272.5,412.6
+335,"Creme de arroz, pó",Cereais e derivados,386.00119033639794,58.8,227.0
+335,"Abóbora, pescoço, crua","Verduras, hortaliças e derivados",24.466267949700352,2837.2,694.1
+335,"Banana, da terra, crua",Frutas e derivados,128.02445217391306,184.1,235.7
+335,"Cacau, cru",Frutas e derivados,74.29148000000004,370.9,275.6
+336,"Farinha, de milho, amarela",Número do,350.58693322738014,200.5,702.9
+336,"Cação, posta, com farinha de trigo, frita",Número do,208.3327437259753,142.3,296.5
+336,"Hambúrguer, bovino, cru",Número do,214.836,23.9,51.3
+336,"Uva, suco concentrado, envasado",Número do,57.65536,57.5,33.1
+336,"Bolo, pronto, milho",Cereais e derivados,311.387,172.5,537.2
+337,Tempero a base de sal,Miscelâneas,21.33,622.2,132.7
+337,"Frango, coxa, sem pele, cozida",Número do,167.42803216441473,139.5,233.6
+337,"Pescadinha, crua",Número do,76.40890833333334,156.5,119.6
+337,"Abóbora, moranga, refogada","Verduras, hortaliças e derivados",29.003822031756226,3094.7,897.6
+337,Creme de Leite,Leite e derivados,221.48354127513312,45.8,101.5
+338,"Goiaba, doce em pasta",Número do,268.9598260869565,318.0,855.3
+338,"Tomate, salada",Número do,20.54690916666664,1374.6,282.4
+338,"Empada, de frango, pré-cozida",Número do,377.4796666666667,75.3,284.3
+338,"Bacalhau, salgado, refogado",Número do,139.66070105353995,25.1,35.0
+338,"Bebida láctea, pêssego",Leite e derivados,55.164833333333306,233.6,128.9
+339,"Queijo, minas, meia cura",Leite e derivados,320.72181773325985,239.7,768.9
+339,Estrogonofe de frango,Alimentos preparados,156.80610301323728,201.0,315.2
+339,"Polvilho, doce",Número do,351.2267333333333,83.2,292.1
+339,"Frango, sobrecoxa, com pele, assada",Número do,259.60476916666664,78.6,204.0
+339,"Salmão, filé, com pele, fresco,  grelhado",Número do,228.73177513531843,66.8,152.8
+340,"Canjica, com leite integral",Cereais e derivados,112.45677722046528,24.0,26.9
+340,"Pastel, de queijo, frito",Número do,422.11208003931927,27.8,117.3
+340,"Acerola, polpa, congelada",Frutas e derivados,21.936799999999977,1160.5,254.6
+340,"Carne, bovina, almôndegas, cruas",Carnes e derivados,189.2566666666666,628.9,1190.3
+340,"Carne, bovina, língua, cozida",Número do,314.9016,54.9,172.8
+341,Barreado,Alimentos preparados,164.9752340474129,104.1,171.8
+341,"Alho, cru","Verduras, hortaliças e derivados",113.12987826086956,122.4,138.5
+341,"Baião de dois, arroz e feijão-de-corda",Alimentos preparados,135.68133333333333,449.8,610.2
+341,"Uva, Rubi, crua",Número do,49.06128999999997,1019.1,500.0
+341,"Carne, bovina, coxão duro, sem gordura, cozido",Número do,216.616066666667,134.1,290.5
+342,"Bolo, pronto, chocolate",Cereais e derivados,410.01366666666667,65.7,269.5
+342,"Carne, bovina, contra-filé, sem gordura, grelhado",Número do,193.69156666666663,15.2,29.5
+342,"Carne, bovina, patinho, sem gordura, cru",Número do,133.46889999999996,141.6,189.0
+342,"Frango, inteiro, sem pele, cru",Número do,129.09640000000002,583.7,753.5
+342,"Porco, pernil, cru",Número do,186.05575,407.2,757.6
+343,"Inhame, cru",Número do,96.69983188405796,983.9,951.5
+343,"Berinjela, cozida",Número do,18.845285556813074,595.3,112.2
+343,"Porco, bisteca, frita",Número do,311.1690453348557,226.4,704.6
+343,"Coxinha de frango, frita",Número do,283.048,39.5,111.9
+343,"Carne, bovina, coxão mole, sem gordura, cozido",Número do,218.6751,54.3,118.8
+344,"Fruta-pão, crua",Número do,67.04561999999997,310.4,208.1
+344,"Gelatina, sabores variados, pó",Miscelâneas,380.2229,158.6,603.2
+344,"Batata, inglesa, frita","Verduras, hortaliças e derivados",267.15742250204084,11.6,31.1
+344,"Carne, bovina, costela, crua",Número do,357.72246666666666,16.8,60.1
+344,"Abobrinha, paulista, crua","Verduras, hortaliças e derivados",30.810702228816336,2828.8,871.6
+345,Bolinho de arroz,Alimentos preparados,273.5143333333333,80.2,219.4
+345,"Frango, coração, cru",Número do,221.5028333333333,78.6,174.1
+345,"Alfavaca, crua","Verduras, hortaliças e derivados",29.183613081057864,875.2,255.4
+345,"Chá, preto, infusão 5%",Bebidas (alcoólicas e não alcoólicas),2.24790995796521,18846.6,423.7
+345,"Carne, bovina, miolo de alcatra, sem gordura, grelhado",Número do,241.36396666666667,293.5,708.4
+346,"Laranja, baía, suco",Número do,36.64948260869561,2208.8,809.5
+346,"Mexerica, Rio, crua",Número do,36.871350000000064,608.9,224.5
+346,"Banana, figo, crua",Frutas e derivados,105.08265000000002,165.0,173.4
+346,"Frango, inteiro, sem pele, assado",Número do,187.3377966666667,353.0,661.4
+346,"Umbu, polpa, congelada",Número do,33.943290000000005,153.9,52.2
+347,"Iogurte, natural, desnatado",Leite e derivados,41.49271128155834,295.6,122.7
+347,"Carne, bovina, miolo de alcatra, sem gordura, grelhado",Número do,241.36396666666667,70.6,170.5
+347,"Pitanga, crua",Número do,41.41552999999997,1119.2,463.5
+347,"Ameixa, crua",Frutas e derivados,52.54248260869565,970.9,510.2
+347,"Feijão, preto, cozido",Leguminosas e derivados,77.02726666666668,413.1,318.2
+348,"Inhame, cru",Número do,96.69983188405796,842.6,814.8
+348,"Camarão, Rio Grande, grande, cru",Número do,47.18343670543035,327.4,154.5
+348,"Mandioca, cozida",Número do,125.35825000000004,1.9,2.3
+348,"Abóbora, pescoço, crua","Verduras, hortaliças e derivados",24.466267949700352,2389.1,584.5
+348,"Carne, bovina, costela, assada",Número do,373.03886666666665,10.2,37.9
+349,"Melão, cru",Número do,29.369391304347808,1664.5,488.8
+349,"Milho, amido, cru",Número do,361.36682387826096,49.4,178.6
+349,"Tangerina, Poncã, crua",Número do,37.83059999999995,699.0,264.4
+349,"Manjuba, frita",Número do,349.32523145536584,183.6,641.5
+349,"Limão, tahiti, cru",Número do,31.818153430163903,495.4,157.6
+350,"Seleta de legumes, enlatada",Número do,56.53377246376815,111.1,62.8
+350,"Guandu, cru",Leguminosas e derivados,344.1336512849927,32.1,110.4
+350,"Leite, de cabra",Leite e derivados,66.41574188654329,1157.4,768.7
+350,Dobradinha,Alimentos preparados,124.50020083333332,513.1,638.9
+350,"Cajá-Manga, cru",Frutas e derivados,45.58096877372266,551.3,251.3
+351,Dobradinha,Alimentos preparados,124.50020083333332,252.6,314.5
+351,"Cebola, crua",Número do,39.420046376811584,1236.1,487.3
+351,Quindim,Número do,411.3487215708494,13.3,54.9
+351,"Tamarindo, cru",Número do,275.69564269441366,206.8,570.2
+351,"Biscoito, doce, wafer, recheado de chocolate",Cereais e derivados,502.4568579710144,101.5,510.2
+352,"Caju, suco concentrado, envasado",Número do,45.10862666666668,73.7,33.2
+352,"Carne, bovina, paleta, sem gordura, crua",Número do,140.9415,244.4,344.5
+352,"Manjuba, com farinha de trigo, frita",Número do,343.55045872306823,264.2,907.8
+352,"Pêra, Park, crua",Número do,60.58859,1285.3,778.7
+352,"Atum, conserva em óleo",Pescados e frutos do mar,165.91056057890256,63.7,105.7
+353,"Refrigerante, tipo limão",Bebidas (alcoólicas e não alcoólicas),39.71910000000001,2378.3,944.6
+353,"Queijo, minas, meia cura",Leite e derivados,320.72181773325985,164.6,527.9
+353,"Fermento em pó, químico",Miscelâneas,89.72206665112176,598.4,536.9
+353,"Hambúrguer, bovino, cru",Número do,214.836,7.3,15.7
+353,"Gergelim, semente",Nozes e sementes,583.5467147545495,3.8,21.9
+354,"Abadejo, filé, congelado, grelhado",Pescados e frutos do mar,129.6435259028673,273.4,354.5
+354,"Abadejo, filé, congelado, cru",Pescados e frutos do mar,59.11303324858347,217.1,128.4
+354,"Arroz, tipo 2, cru",Cereais e derivados,358.1167614565217,129.5,463.8
+354,"Carne, bovina, músculo, sem gordura, cru",Número do,141.581,302.9,428.8
+354,"Cebolinha, crua",Número do,19.51588550724644,2395.7,467.5
+355,"Pão, de queijo, cru",Número do,294.538,22.1,65.2
+355,"Repolho, roxo, cru",Número do,30.907502954324087,228.1,70.5
+355,"Carne, bovina, fígado, cru",Número do,141.04586666666663,416.0,586.7
+355,"Mandioca, frita",Número do,300.0552433891495,100.3,300.9
+355,"Pescada, filé, cru",Número do,107.20556666666666,790.6,847.6
+356,"Creme de arroz, pó",Cereais e derivados,386.00119033639794,130.6,504.1
+356,"Caranguejo, cozido",Número do,82.72150150783858,821.3,679.4
+356,"Abiu, cru",Frutas e derivados,62.42409840854006,39.7,24.8
+356,"Serralha, crua",Número do,30.397934166666644,299.2,90.9
+356,"Biscoito, doce, maisena",Cereais e derivados,442.8193901449275,84.6,374.8
+357,"Batata, inglesa, cozida","Verduras, hortaliças e derivados",51.588476636270656,1049.6,541.5
+357,"Manjuba, com farinha de trigo, frita",Número do,343.55045872306823,319.0,1095.8
+357,"Frango, coxa, com pele, assada",Número do,215.1186475329399,62.0,133.3
+357,"Cupuaçu, polpa, congelada",Número do,48.79688999999999,178.9,87.3
+357,"Ameixa, em calda, enlatada, drenada ",Frutas e derivados,177.35918531537055,7.4,13.1
+358,"Kiwi, cru",Número do,51.13633043478264,1509.7,772.0
+358,"Batata, baroa, cozida","Verduras, hortaliças e derivados",80.11976250000004,188.8,151.3
+358,"Leite, fermentado",Leite e derivados,69.62147400000002,101.8,70.8
+358,"Merluza, filé, assado",Número do,121.91021833333332,159.6,194.6
+358,"Biscoito, doce, wafer, recheado de chocolate",Cereais e derivados,502.4568579710144,125.0,628.2
+359,"Maionese, tradicional com ovos",Número do,302.1526776878237,55.8,168.7
+359,"Corvina de água doce, crua",Número do,101.00903333333332,83.7,84.6
+359,"Bolo, mistura para",Cereais e derivados,418.6333333333333,101.0,422.8
+359,"Mingau tradicional, pó",Número do,373.4214666666667,149.5,558.3
+359,"Leite, de vaca, desnatado, pó",Leite e derivados,361.608,195.2,705.7
+360,"Queijo, ricota",Número do,139.73177999999996,16.4,23.0
+360,"Farinha, de puba",Número do,360.17977487993244,260.5,938.3
+360,"Figo, cru",Número do,41.44712608695652,1270.2,526.5
+360,"Bolo, mistura para",Cereais e derivados,418.6333333333333,17.4,72.7
+360,"Croquete, de carne, frito",Número do,346.7420146474044,43.1,149.6
+361,"Batata, frita, tipo chips, industrializada","Verduras, hortaliças e derivados",542.7346733841896,72.7,394.5
+361,"Geléia, mocotó, natural",Número do,106.08666666666662,1042.5,1106.0
+361,"Carne, bovina, fraldinha, com gordura, crua",Número do,220.72376666666665,89.4,197.4
+361,"Jaca, crua",Número do,87.92034999999997,149.9,131.8
+361,"Açaí, polpa, congelada",Frutas e derivados,58.04536887282133,257.4,149.4
+362,Sarapatel,Alimentos preparados,122.98185821243132,304.8,374.8
+362,"Farinha, de mandioca, torrada",Número do,365.268975,86.1,314.5
+362,"Queijo, ricota",Número do,139.73177999999996,351.7,491.5
+362,"Merluza, filé, assado",Número do,121.91021833333332,420.2,512.3
+362,"Lingüiça, porco, crua",Número do,227.2034508333333,215.2,488.9
+363,"Carne, bovina, capa de contra-filé, sem gordura, grelhada",Carnes e derivados,239.44363333333328,392.6,940.1
+363,"Alho, cru","Verduras, hortaliças e derivados",113.12987826086956,490.9,555.3
+363,Camarão à baiana,Alimentos preparados,100.78304300403596,174.4,175.8
+363,"Porco, lombo, cru",Número do,175.6251952501138,90.5,158.9
+363,"Salsa, crua",Número do,33.424111594202884,68.4,22.9
+364,"Açúcar, refinado",Número do,386.5748239999999,243.0,939.3
+364,"Lingüiça, frango, frita",Número do,245.46100666666663,113.6,278.9
+364,"Sardinha, conserva em óleo",Número do,284.9810048712492,97.3,277.2
+364,"Arroz, tipo 1, cozido",Cereais e derivados,128.25848566666664,39.7,50.9
+364,"Refrigerante, tipo cola",Bebidas (alcoólicas e não alcoólicas),33.514200000000045,1219.7,408.8
+365,"Carne, bovina, patinho, sem gordura, cru",Número do,133.46889999999996,194.1,259.0
+365,"Polenta, pré-cozida",Número do,102.74116666666669,518.7,532.9
+365,"Serralha, crua",Número do,30.397934166666644,2430.7,738.9
+365,Maniçoba,Alimentos preparados,134.22289340098695,68.4,91.8
+365,"Limão, cravo, suco",Número do,14.103733399311682,2768.2,390.4
+366,"Carne, bovina, acém, moído, cru",Carnes e derivados,136.56233333333333,410.5,560.6
+366,"Carne, bovina, flanco, sem gordura, cozido",Número do,195.5753666666667,75.7,148.0
+366,"Carne, bovina, bucho, cru",Carnes e derivados,137.30316666666667,66.6,91.4
+366,"Pão, de queijo, assado",Número do,363.07791333333336,32.9,119.5
+366,"Pescada, filé, cru",Número do,107.20556666666666,816.6,875.5
+367,"Empada, de frango, pré-cozida",Número do,377.4796666666667,71.7,270.7
+367,"Batata, inglesa, cozida","Verduras, hortaliças e derivados",51.588476636270656,454.1,234.2
+367,Quibebe,Alimentos preparados,86.349230299592,148.7,128.4
+367,"Frango, asa, com pele, crua",Número do,213.18833333333333,91.8,195.8
+367,"Chicória, crua",Número do,13.837120289855095,7883.3,1090.8
+368,"Pimentão, amarelo, cru",Número do,27.92745942028985,624.6,174.4
+368,"Margarina, com óleo hidrogenado, sem sal (80% de lipídeos)",Gorduras e óleos,722.525625804901,75.6,546.4
+368,"Manjuba, com farinha de trigo, frita",Número do,343.55045872306823,205.4,705.5
+368,"Carne, bovina, capa de contra-filé, com gordura, grelhada",Carnes e derivados,311.7026666666667,81.6,254.3
+368,"Soja, extrato solúvel, pó",Número do,458.8957294378677,43.0,197.4
+369,"Peru, congelado, assado",Número do,163.07139793137708,116.1,189.3
+369,"Limão, tahiti, cru",Número do,31.818153430163903,374.8,119.3
+369,"Leite, fermentado",Leite e derivados,69.62147400000002,727.4,506.4
+369,"Carne, bovina, maminha, grelhada",Número do,153.0896758333333,80.3,122.9
+369,"Pescada, branca, frita",Número do,223.0397323693037,429.1,957.1
+370,"Pastel, de queijo, cru",Número do,308.4744338873742,36.9,113.8
+370,"Carne, bovina, picanha, sem gordura, crua",Número do,133.52236666666667,31.9,42.6
+370,"Abobrinha, paulista, crua","Verduras, hortaliças e derivados",30.810702228816336,3312.0,1020.4
+370,"Caju, suco concentrado, envasado",Número do,45.10862666666668,917.5,413.9
+370,"Quibe, frito",Número do,253.83130886964,50.9,129.3
+371,"Carne, bovina, acém, sem gordura, cru",Carnes e derivados,144.02943333333332,14.4,20.7
+371,"Couve-flor, cozida",Número do,19.114140614728186,120.5,23.0
+371,"Uva, Rubi, crua",Número do,49.06128999999997,364.2,178.7
+371,"Caldo de carne, tablete",Carnes e derivados,240.6233333333333,324.7,781.2
+371,"Pitanga, polpa, congelada",Número do,19.10545950235922,4587.3,876.4
+372,"Pão, trigo, forma, integral",Número do,253.1936183333333,267.2,676.6
+372,"Ovo, de galinha, inteiro, cru",Ovos e derivados,143.11173333333335,122.2,174.8
+372,"Laranja, lima, suco",Número do,39.3360939441324,775.9,305.2
+372,"Toucinho, frito",Número do,696.5640066666666,63.6,442.9
+372,"Farinha, de rosca",Número do,370.5780966666666,101.3,375.5
+373,"Farinha, de trigo",Número do,360.4729785507247,7.1,25.5
+373,"Umbu, polpa, congelada",Número do,33.943290000000005,268.4,91.1
+373,"Carne, bovina, picanha, com gordura, crua",Número do,212.8794333333333,274.9,585.2
+373,"Cupuaçu, cru",Número do,49.42255877437193,35.3,17.5
+373,"Nabo, cru",Número do,18.18662463768122,7949.1,1445.7
+374,Estrogonofe de carne,Alimentos preparados,173.1413643180132,25.2,43.6
+374,"Manga, Palmer, crua",Número do,72.48673809168733,84.9,61.5
+374,"Arroz, integral, cru",Cereais e derivados,359.6780020326088,287.8,1035.2
+374,"Acerola, polpa, congelada",Frutas e derivados,21.936799999999977,2257.1,495.1
+374,"Carne, bovina, acém, moído, cru",Carnes e derivados,136.56233333333333,316.0,431.5
