@@ -16,12 +16,14 @@ export type StudentDispositionData = {
   Physical_Activity_Hours_Per_Day: number;
 };
 
-export default function predictDisposition(data: StudentDispositionData) {
-  return studentDispositionApi
-    .post("/predict", data)
-    .then((response) => response.data)
-    .catch((error) => {
-      console.error("Error fetching student disposition:", error);
-      throw error;
-    });
+export default async function predictDisposition(
+  data: StudentDispositionData
+): Promise<any> {
+  try {
+    const response = await studentDispositionApi.post("/predict", data);
+    return response.data;
+  } catch (error: unknown) {
+    console.error("Error fetching student disposition:", error);
+    throw error;
+  }
 }

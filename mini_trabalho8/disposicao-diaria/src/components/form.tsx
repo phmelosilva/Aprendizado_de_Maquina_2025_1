@@ -34,7 +34,7 @@ export function Form() {
       Physical_Activity_Hours_Per_Day: physicalActivityHours,
     };
 
-    predictDisposition(data).then((response) => {
+    predictDisposition(data).then((response: any) => {
       setResponse(response);
       setIsDialogOpen(true);
     });
