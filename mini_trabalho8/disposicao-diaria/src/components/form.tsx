@@ -1,7 +1,6 @@
 import { Button } from "@/components/ui/button";
 import {
   Card,
-  CardAction,
   CardContent,
   CardDescription,
   CardFooter,
@@ -15,47 +14,84 @@ export function Form() {
   return (
     <Card className="w-full max-w-sm">
       <CardHeader>
-        <CardTitle>Login to your account</CardTitle>
+        <CardTitle>Prever Disposição Diária</CardTitle>
         <CardDescription>
-          Enter your email below to login to your account
+          Informe seus hábitos diários para prever sua disposição.
         </CardDescription>
-        <CardAction>
-          <Button variant="link">Sign Up</Button>
-        </CardAction>
       </CardHeader>
       <CardContent>
         <form>
           <div className="flex flex-col gap-6">
             <div className="grid gap-2">
-              <Label htmlFor="email">Email</Label>
+              <Label htmlFor="study">Horas de estudo por dia</Label>
               <Input
-                id="email"
-                type="email"
-                placeholder="m@example.com"
+                id="study"
+                name="Study_Hours_Per_Day"
+                type="number"
+                min={0}
+                step={0.1}
+                placeholder="Ex: 3.5"
                 required
               />
             </div>
             <div className="grid gap-2">
-              <div className="flex items-center">
-                <Label htmlFor="password">Password</Label>
-                <a
-                  href="#"
-                  className="ml-auto inline-block text-sm underline-offset-4 hover:underline"
-                >
-                  Forgot your password?
-                </a>
-              </div>
-              <Input id="password" type="password" required />
+              <Label htmlFor="extracurricular">
+                Horas de atividades extracurriculares por dia
+              </Label>
+              <Input
+                id="extracurricular"
+                name="Extracurricular_Hours_Per_Day"
+                type="number"
+                min={0}
+                step={0.1}
+                placeholder="Ex: 1.0"
+                required
+              />
+            </div>
+            <div className="grid gap-2">
+              <Label htmlFor="sleep">Horas de sono por dia</Label>
+              <Input
+                id="sleep"
+                name="Sleep_Hours_Per_Day"
+                type="number"
+                min={0}
+                step={0.1}
+                placeholder="Ex: 7.5"
+                required
+              />
+            </div>
+            <div className="grid gap-2">
+              <Label htmlFor="social">Horas de interação social por dia</Label>
+              <Input
+                id="social"
+                name="Social_Hours_Per_Day"
+                type="number"
+                min={0}
+                step={0.1}
+                placeholder="Ex: 2.0"
+                required
+              />
+            </div>
+            <div className="grid gap-2">
+              <Label htmlFor="physical">
+                Horas de atividade física por dia
+              </Label>
+              <Input
+                id="physical"
+                name="Physical_Activity_Hours_Per_Day"
+                type="number"
+                min={0}
+                step={0.1}
+                placeholder="Ex: 1.5"
+                required
+              />
             </div>
           </div>
         </form>
       </CardContent>
-      <CardFooter className="flex-col gap-2">
+      <CardFooter>
         <Button type="submit" className="w-full">
-          Login
-        </Button>
-        <Button variant="outline" className="w-full">
-          Login with Google
+          Prever Disposição
         </Button>
       </CardFooter>
     </Card>
