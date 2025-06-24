@@ -1,6 +1,7 @@
 import os
 import joblib
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from app.schemas import DispositionRequest
 from typing import Dict, List, Any
 
@@ -17,6 +18,15 @@ app = FastAPI(
     title="Disposition Prediction API",
     description="API para previsão de nível de disposição (Stress_Level_Encoded) a partir de hábitos de vida.",
     version="1.1.0"
+)
+
+# Adiciona middleware de CORS para permitir acesso de qualquer origem
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 try:
