@@ -1,6 +1,6 @@
 # Student Disposition Prediction API
 
-Este README explica como configurar, treinar e rodar a API localmente.
+Este README explica como configurar, treinar, rodar a API localmente e garantir a qualidade em produção.
 
 ## 1. Estrutura do Projeto
 
@@ -21,22 +21,18 @@ student-disposition-api/
 
 ## 2. Pré-requisitos
 
-- Python 3.8+ instalado
-- pip (gerenciador de pacotes Python)
-- (Opcional) Docker & Docker Compose
-- (Opcional) Heroku CLI, se for deploy em Heroku
+- Python 3.8+  
+- pip (gerenciador de pacotes Python)  
+- (Opcional) Docker & Docker Compose  
+- (Opcional) Heroku CLI  
 
 ## 3. Instalar Dependências
-
-No terminal, na raiz do projeto, execute:
 
 ```bash
 pip install -r requirements.txt
 ```
 
 ## 4. Treinar o Modelo
-
-O script de treinamento carrega seu dataset e salva o modelo otimizado em `models/`.
 
 ```bash
 python scripts/train_model.py
@@ -52,16 +48,14 @@ Modelo otimizado salvo em models/svm_disposition_model.pkl
 
 ## 5. Rodar a API Localmente
 
-Após gerar o modelo:
-
 ```bash
 uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
 - Acesse a documentação interativa: `http://localhost:8000/docs`  
-- Endpoints principais:
-  - `GET /` — Health check
-  - `POST /predict` — Previsão de disposição
+- Endpoints principais:  
+  - `GET /` — Health check  
+  - `POST /predict` — Previsão de disposição  
 
 ## 6. Testando o Endpoint `/predict`
 
@@ -81,12 +75,52 @@ No Swagger UI (`/docs`), clique em **POST /predict**, preencha o JSON de exemplo
 
 ## 7. (Opcional) Rodar com Docker
 
-1. Build da imagem:
-   ```bash
-   docker build -t disposition-api .
-   ```
-2. Executar container:
-   ```bash
-   docker run -d -p 8000:8000 --name disposition-api disposition-api
-   ```
-3. Acesse `http://localhost:8000/docs`.
+```bash
+docker build -t disposition-api .
+docker run -d -p 8000:8000 --name disposition-api disposition-api
+```
+
+Acesse `http://localhost:8000/docs`.
+
+## 8. Deploy em Heroku (Opcional)
+
+Crie um **Procfile** na raiz com:
+
+```
+web: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+```
+
+E execute:
+```bash
+heroku create seu-app
+git init && git add . && git commit -m "Initial"
+heroku git:remote -a seu-app
+git push heroku main
+heroku ps:scale web=1
+heroku open
+```
+
+## 9. Monitoramento, Segurança e Estabilidade
+
+Para garantir qualidade contínua:
+
+**9.1 Monitoramento de Desempenho**  
+- **Métricas em Tempo Real**: exponha latência, taxa de erro e throughput usando Prometheus + Grafana.  
+- **Alertas**: configure notificações (e-mail, Slack) para latência acima de X ms ou aumento de 5% de erros em 10 minutos.  
+- **Logs Estruturados**: use Python `logging` em JSON (inclusão de timestamp, payload, tempo de inferência).
+
+**9.2 Testes de Segurança e Estabilidade**  
+- **Teste de Carga**: utilize Locust ou JMeter para simular picos de concorrência (ex: 100 requisições/s).  
+- **Teste de Penetração**: rode OWASP ZAP ou Burp Suite para identificar vulnerabilidades nas APIs.  
+- **Validação de Input**: Pydantic valida esquemas, garantindo rejeição de JSON inválido (HTTP 422).  
+- **Scan de Dependências**: use `pip-audit` ou `safety` diariamente para checar vulnerabilidades.
+
+**9.3 Plano de Manutenção e Atualização**  
+- **Re-treinamento Agendado**: crie pipeline (GitHub Actions, Airflow) para re-treinar modelo mensalmente.  
+- **Versionamento de Modelo**: adote DVC ou MLflow para Version Control e rastreabilidade.  
+- **Testes Automatizados**: inclua testes unitários e de integração no CI (GitHub Actions).  
+- **Rollback Rápido**: mantenha última versão estável do modelo no bucket ou registry e prepare endpoint de fallback.
+
+---
+
+Com este projeto, você terá não apenas a API de predição, mas também o suporte necessário para monitorar, testar e manter seu modelo em produção de forma segura e estável.
