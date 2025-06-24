@@ -105,4 +105,3 @@ Para garantir qualidade contínua:
 
 ---
 
-Com este projeto, você terá não apenas a API de predição, mas também o suporte necessário para monitorar, testar e manter seu modelo em produção de forma segura e estável.
