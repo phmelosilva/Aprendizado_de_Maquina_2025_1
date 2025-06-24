@@ -8,7 +8,7 @@ const studentDispositionApi = axios.create({
   },
 });
 
-type StudentDispositionData = {
+export type StudentDispositionData = {
   Study_Hours_Per_Day: number;
   Extracurricular_Hours_Per_Day: number;
   Sleep_Hours_Per_Day: number;
@@ -16,7 +16,7 @@ type StudentDispositionData = {
   Physical_Activity_Hours_Per_Day: number;
 };
 
-export default function getStudentDisposition(data: StudentDispositionData) {
+export default function predictDisposition(data: StudentDispositionData) {
   return studentDispositionApi
     .post("/predict", data)
     .then((response) => response.data)
