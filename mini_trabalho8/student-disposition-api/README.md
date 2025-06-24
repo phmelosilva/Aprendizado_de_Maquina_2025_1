@@ -82,24 +82,6 @@ docker run -d -p 8000:8000 --name disposition-api disposition-api
 
 Acesse `http://localhost:8000/docs`.
 
-## 8. Deploy em Heroku (Opcional)
-
-Crie um **Procfile** na raiz com:
-
-```
-web: uvicorn app.main:app --host 0.0.0.0 --port $PORT
-```
-
-E execute:
-```bash
-heroku create seu-app
-git init && git add . && git commit -m "Initial"
-heroku git:remote -a seu-app
-git push heroku main
-heroku ps:scale web=1
-heroku open
-```
-
 ## 9. Monitoramento, Segurança e Estabilidade
 
 Para garantir qualidade contínua:
