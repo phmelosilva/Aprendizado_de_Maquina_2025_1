@@ -1,3 +1,7 @@
+import type {
+  StudentDispositionData,
+  StudentDispositionResponse,
+} from "@/types/student-disposition.type";
 import axios from "axios";
 
 const studentDispositionApi = axios.create({
@@ -8,21 +12,14 @@ const studentDispositionApi = axios.create({
   },
 });
 
-export type StudentDispositionData = {
-  Study_Hours_Per_Day: number;
-  Extracurricular_Hours_Per_Day: number;
-  Sleep_Hours_Per_Day: number;
-  Social_Hours_Per_Day: number;
-  Physical_Activity_Hours_Per_Day: number;
-};
-
 export default async function predictDisposition(
   data: StudentDispositionData
-): Promise<any> {
+): Promise<StudentDispositionResponse> {
   try {
-    const response = await studentDispositionApi.post("/predict", data);
+    const response: { data: StudentDispositionResponse } =
+      await studentDispositionApi.post("/predict", data);
     return response.data;
-  } catch (error: unknown) {
+  } catch (error: any) {
     console.error("Error fetching student disposition:", error);
     throw error;
   }

@@ -8,21 +8,10 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
-
-export type PredictApiClass = {
-  class: number;
-  meaning: string;
-  probability_percent: number;
-};
-
-export type PredictApiResponse = {
-  predicted_class: number;
-  predicted_meaning: string;
-  classes: PredictApiClass[];
-};
+import type { StudentDispositionResponse } from "@/types/student-disposition.type";
 
 type PredictResultDialogProps = {
-  response: PredictApiResponse;
+  response: StudentDispositionResponse;
   isOpen: boolean;
   onOpenChange: (open: boolean) => void;
   onClose?: () => void;
