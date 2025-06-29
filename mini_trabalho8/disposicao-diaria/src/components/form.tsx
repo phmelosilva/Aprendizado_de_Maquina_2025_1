@@ -22,9 +22,10 @@ export function Form() {
 
   const [isDialogOpen, setIsDialogOpen] = useState(false);
 
+  const [isLoading, setIsLoading] = useState(false);
   const [response, setResponse] = useState(null);
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     const data = {
       Study_Hours_Per_Day: studyHours,
@@ -34,10 +35,18 @@ export function Form() {
       Physical_Activity_Hours_Per_Day: physicalActivityHours,
     };
 
-    predictDisposition(data).then((response: any) => {
+    try {
+      setIsLoading(true);
+
+      const response = await predictDisposition(data);
+
+      setIsLoading(false);
       setResponse(response);
       setIsDialogOpen(true);
-    });
+    } catch (error) {
+      console.error("Erro ao prever disposição:", error);
+      return;
+    }
   };
 
   const onCloseDialog = () => {
@@ -147,9 +156,17 @@ export function Form() {
           <CardFooter>
             <Button
               type="submit"
-              className="w-full cursor-pointer disabled:cursor-not-allowed"
+              disabled={
+                (studyHours <= 0 &&
+                  extracurricularHours <= 0 &&
+                  sleepHours <= 0 &&
+                  socialHours <= 0 &&
+                  physicalActivityHours <= 0) ||
+                isLoading
+              }
+              className="w-full cursor-pointer"
             >
-              Prever Disposição
+              {isLoading ? "Carregando..." : "Prever Disposição"}
             </Button>
           </CardFooter>
         </form>
