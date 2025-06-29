@@ -14,37 +14,42 @@ import { useState } from "react";
 import { PredictResultDialog } from "./predict-dialog";
 import { useForm } from "react-hook-form";
 import type { StudentDispositionResponse } from "@/types/student-disposition.type";
+import { toast } from "react-toastify";
 
 export function Form() {
-  const { register, handleSubmit } = useForm();
-
+  const { register, handleSubmit, reset } = useForm();
   const [isDialogOpen, setIsDialogOpen] = useState(false);
-
   const [isLoading, setIsLoading] = useState(false);
   const [response, setResponse] = useState<StudentDispositionResponse | null>(
     null
   );
 
   const onSubmit = async (data: any) => {
-    try {
-      setIsLoading(true);
+    setIsLoading(true);
 
+    try {
       const response: StudentDispositionResponse = await predictDisposition(
         data
       );
 
-      setIsLoading(false);
       setResponse(response);
       setIsDialogOpen(true);
     } catch (error) {
       console.error("Erro ao prever disposição:", error);
+      toast.error("Erro ao prever disposição. Tente novamente mais tarde.");
+      reset();
+
       return;
+    } finally {
+      setIsLoading(false);
     }
   };
 
   const onCloseDialog = () => {
     setIsDialogOpen(false);
     setResponse(null);
+    reset();
+    toast.success("Previsão concluída com sucesso!");
   };
 
   return (
