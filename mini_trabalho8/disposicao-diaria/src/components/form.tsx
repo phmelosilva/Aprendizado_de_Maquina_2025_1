@@ -12,33 +12,26 @@ import { Label } from "@/components/ui/label";
 import predictDisposition from "@/services/api";
 import { useState } from "react";
 import { PredictResultDialog } from "./predict-dialog";
+import { useForm } from "react-hook-form";
+import type { StudentDispositionResponse } from "@/types/student-disposition.type";
 
 export function Form() {
-  const [studyHours, setStudyHours] = useState(0);
-  const [extracurricularHours, setExtracurricularHours] = useState(0);
-  const [sleepHours, setSleepHours] = useState(0);
-  const [socialHours, setSocialHours] = useState(0);
-  const [physicalActivityHours, setPhysicalActivityHours] = useState(0);
+  const { register, handleSubmit } = useForm();
 
   const [isDialogOpen, setIsDialogOpen] = useState(false);
 
   const [isLoading, setIsLoading] = useState(false);
-  const [response, setResponse] = useState(null);
+  const [response, setResponse] = useState<StudentDispositionResponse | null>(
+    null
+  );
 
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    const data = {
-      Study_Hours_Per_Day: studyHours,
-      Extracurricular_Hours_Per_Day: extracurricularHours,
-      Sleep_Hours_Per_Day: sleepHours,
-      Social_Hours_Per_Day: socialHours,
-      Physical_Activity_Hours_Per_Day: physicalActivityHours,
-    };
-
+  const onSubmit = async (data: any) => {
     try {
       setIsLoading(true);
 
-      const response = await predictDisposition(data);
+      const response: StudentDispositionResponse = await predictDisposition(
+        data
+      );
 
       setIsLoading(false);
       setResponse(response);
@@ -52,17 +45,12 @@ export function Form() {
   const onCloseDialog = () => {
     setIsDialogOpen(false);
     setResponse(null);
-    setStudyHours(0);
-    setExtracurricularHours(0);
-    setSleepHours(0);
-    setSocialHours(0);
-    setPhysicalActivityHours(0);
   };
 
   return (
     <>
       <Card className="w-full max-w-sm">
-        <form onSubmit={handleSubmit} className="space-y-4">
+        <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
           <CardHeader>
             <CardTitle>Prever Disposição Diária</CardTitle>
             <CardDescription>
@@ -75,14 +63,10 @@ export function Form() {
                 <Label htmlFor="study">Horas de estudo por dia</Label>
                 <Input
                   id="study"
-                  name="Study_Hours_Per_Day"
+                  {...register("Study_Hours_Per_Day")}
                   type="number"
                   min={0}
-                  step={0.1}
-                  placeholder="Ex: 3.5"
                   required
-                  onChange={(e) => setStudyHours(Number(e.target.value))}
-                  value={studyHours.toString()}
                 />
               </div>
               <div className="grid gap-2">
@@ -91,30 +75,20 @@ export function Form() {
                 </Label>
                 <Input
                   id="extracurricular"
-                  name="Extracurricular_Hours_Per_Day"
+                  {...register("Extracurricular_Hours_Per_Day")}
                   type="number"
                   min={0}
-                  step={0.1}
-                  placeholder="Ex: 1.0"
                   required
-                  onChange={(e) =>
-                    setExtracurricularHours(Number(e.target.value))
-                  }
-                  value={extracurricularHours.toString()}
                 />
               </div>
               <div className="grid gap-2">
                 <Label htmlFor="sleep">Horas de sono por dia</Label>
                 <Input
                   id="sleep"
-                  name="Sleep_Hours_Per_Day"
+                  {...register("Sleep_Hours_Per_Day")}
                   type="number"
                   min={0}
-                  step={0.1}
-                  placeholder="Ex: 7.5"
                   required
-                  onChange={(e) => setSleepHours(Number(e.target.value))}
-                  value={sleepHours.toString()}
                 />
               </div>
               <div className="grid gap-2">
@@ -123,14 +97,10 @@ export function Form() {
                 </Label>
                 <Input
                   id="social"
-                  name="Social_Hours_Per_Day"
+                  {...register("Social_Hours_Per_Day")}
                   type="number"
                   min={0}
-                  step={0.1}
-                  placeholder="Ex: 2.0"
                   required
-                  onChange={(e) => setSocialHours(Number(e.target.value))}
-                  value={socialHours.toString()}
                 />
               </div>
               <div className="grid gap-2">
@@ -139,16 +109,10 @@ export function Form() {
                 </Label>
                 <Input
                   id="physical"
-                  name="Physical_Activity_Hours_Per_Day"
+                  {...register("Physical_Activity_Hours_Per_Day")}
                   type="number"
                   min={0}
-                  step={0.1}
-                  placeholder="Ex: 1.5"
                   required
-                  onChange={(e) =>
-                    setPhysicalActivityHours(Number(e.target.value))
-                  }
-                  value={physicalActivityHours.toString()}
                 />
               </div>
             </div>
@@ -156,14 +120,7 @@ export function Form() {
           <CardFooter>
             <Button
               type="submit"
-              disabled={
-                (studyHours <= 0 &&
-                  extracurricularHours <= 0 &&
-                  sleepHours <= 0 &&
-                  socialHours <= 0 &&
-                  physicalActivityHours <= 0) ||
-                isLoading
-              }
+              disabled={isLoading}
               className="w-full cursor-pointer"
             >
               {isLoading ? "Carregando..." : "Prever Disposição"}
