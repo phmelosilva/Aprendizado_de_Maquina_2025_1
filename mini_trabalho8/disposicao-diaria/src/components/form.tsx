@@ -13,36 +13,18 @@ import predictDisposition from "@/services/api";
 import { useState } from "react";
 import { PredictResultDialog } from "./predict-dialog";
 import { useForm } from "react-hook-form";
-import type {
-  StudentDispositionData,
-  StudentDispositionResponse,
-} from "@/types/student-disposition.type";
+import type { StudentDispositionResponse } from "@/types/student-disposition.type";
 import { toast } from "react-toastify";
-import { z } from "zod";
-
-const formSchema = z.object({
-  Study_Hours_Per_Day: z.number().min(0, "Deve ser maior ou igual a 0"),
-  Extracurricular_Hours_Per_Day: z
-    .number()
-    .min(0, "Deve ser maior ou igual a 0"),
-  Sleep_Hours_Per_Day: z.number().min(0, "Deve ser maior ou igual a 0"),
-  Social_Hours_Per_Day: z.number().min(0, "Deve ser maior ou igual a 0"),
-  Physical_Activity_Hours_Per_Day: z
-    .number()
-    .min(0, "Deve ser maior ou igual a 0"),
-});
-
-type FormData = z.infer<typeof formSchema>;
 
 export function Form() {
-  const { register, handleSubmit, reset } = useForm<FormData>();
+  const { register, handleSubmit, reset } = useForm();
   const [isDialogOpen, setIsDialogOpen] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
   const [response, setResponse] = useState<StudentDispositionResponse | null>(
     null
   );
 
-  const onSubmit = async (data: StudentDispositionData) => {
+  const onSubmit = async (data: any) => {
     setIsLoading(true);
 
     try {
@@ -99,7 +81,9 @@ export function Form() {
                 </Label>
                 <Input
                   id="extracurricular"
-                  {...register("Extracurricular_Hours_Per_Day")}
+                  {...register("Extracurricular_Hours_Per_Day", {
+                    valueAsNumber: true,
+                  })}
                   type="number"
                   min={0}
                   placeholder="0 para nenhuma atividade"
